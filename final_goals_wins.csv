@@ -1,0 +1,454 @@
+Year,country,goals,wins,code
+1930,Argentina,18.0,4.0,ARG
+1930,Belgium,0.0,0.0,BEL
+1930,Bolivia,0.0,0.0,BOL
+1930,Brazil,5.0,1.0,BRA
+1930,Chile,5.0,2.0,CHL
+1930,France,4.0,1.0,FRA
+1930,Mexico,4.0,0.0,MEX
+1930,Paraguay,1.0,1.0,PRY
+1930,Peru,1.0,0.0,PER
+1930,Romania,3.0,1.0,ROU
+1930,United States,7.0,2.0,USA
+1930,Uruguay,15.0,4.0,URY
+1930,Yugoslavia,7.0,2.0,
+1934,Argentina,2.0,0.0,ARG
+1934,Austria,7.0,2.0,AUT
+1934,Belgium,2.0,0.0,BEL
+1934,Brazil,1.0,0.0,BRA
+1934,Czech Republic,9.0,3.0,CZE
+1934,Egypt,2.0,0.0,EGY
+1934,France,2.0,0.0,FRA
+1934,Germany,11.0,3.0,DEU
+1934,Hungary,5.0,1.0,HUN
+1934,Italy,11.0,4.0,ITA
+1934,Netherlands,2.0,0.0,NLD
+1934,Romania,1.0,0.0,ROU
+1934,Spain,3.0,1.0,ESP
+1934,Sweden,4.0,1.0,SWE
+1934,Switzerland,5.0,1.0,CHE
+1934,United States,1.0,0.0,USA
+1938,Belgium,1.0,0.0,BEL
+1938,Brazil,13.0,3.0,BRA
+1938,Cuba,2.0,1.0,CUB
+1938,Czech Republic,4.0,1.0,CZE
+1938,Dutch East Indies,0.0,0.0,
+1938,France,4.0,1.0,FRA
+1938,Germany,2.0,0.0,DEU
+1938,Hungary,15.0,3.0,HUN
+1938,Italy,11.0,4.0,ITA
+1938,Netherlands,0.0,0.0,NLD
+1938,Norway,1.0,0.0,NOR
+1938,Poland,5.0,0.0,POL
+1938,Romania,1.0,0.0,ROU
+1938,Sweden,11.0,1.0,SWE
+1938,Switzerland,4.0,1.0,CHE
+1950,Bolivia,0.0,0.0,BOL
+1950,Brazil,20.0,4.0,BRA
+1950,Chile,5.0,1.0,CHL
+1950,Italy,4.0,1.0,ITA
+1950,Mexico,2.0,0.0,MEX
+1950,Paraguay,0.0,0.0,PRY
+1950,Spain,8.0,3.0,ESP
+1950,Sweden,9.0,2.0,SWE
+1950,Switzerland,2.0,1.0,CHE
+1950,United Kingdom,2.0,1.0,GBR
+1950,United States,4.0,1.0,USA
+1950,Uruguay,13.0,3.0,URY
+1950,Yugoslavia,7.0,2.0,
+1954,Austria,17.0,4.0,AUT
+1954,Belgium,1.0,0.0,BEL
+1954,Brazil,7.0,1.0,BRA
+1954,Czech Republic,0.0,0.0,CZE
+1954,France,3.0,1.0,FRA
+1954,Germany,25.0,5.0,DEU
+1954,Hungary,27.0,4.0,HUN
+1954,Italy,6.0,1.0,ITA
+1954,"Korea, South",0.0,0.0,KOR
+1954,Mexico,2.0,0.0,MEX
+1954,Scotland,0.0,0.0,
+1954,Switzerland,11.0,2.0,CHE
+1954,Turkey,10.0,1.0,TUR
+1954,United Kingdom,4.0,1.0,GBR
+1954,Uruguay,16.0,3.0,URY
+1954,Yugoslavia,1.0,1.0,
+1958,Argentina,5.0,1.0,ARG
+1958,Austria,0.0,0.0,AUT
+1958,Brazil,16.0,5.0,BRA
+1958,Czech Republic,7.0,1.0,CZE
+1958,France,23.0,4.0,FRA
+1958,Germany,8.0,2.0,DEU
+1958,Hungary,6.0,1.0,HUN
+1958,Ireland,4.0,2.0,IRL
+1958,Mexico,0.0,0.0,MEX
+1958,Paraguay,6.0,1.0,PRY
+1958,Russia,3.0,2.0,RUS
+1958,Scotland,3.0,0.0,
+1958,Sweden,12.0,4.0,SWE
+1958,United Kingdom,0.0,0.0,GBR
+1958,Wales,2.0,1.0,
+1958,Yugoslavia,3.0,1.0,
+1962,Argentina,2.0,1.0,ARG
+1962,Brazil,14.0,5.0,BRA
+1962,Bulgaria,1.0,0.0,BGR
+1962,Chile,10.0,4.0,CHL
+1962,Colombia,1.0,0.0,COL
+1962,Czech Republic,7.0,3.0,CZE
+1962,Germany,4.0,2.0,DEU
+1962,Hungary,8.0,2.0,HUN
+1962,Italy,3.0,1.0,ITA
+1962,Mexico,3.0,1.0,MEX
+1962,Russia,5.0,2.0,RUS
+1962,Spain,2.0,1.0,ESP
+1962,Switzerland,2.0,0.0,CHE
+1962,United Kingdom,5.0,1.0,GBR
+1962,Uruguay,4.0,1.0,URY
+1962,Yugoslavia,10.0,3.0,
+1966,Argentina,4.0,2.0,ARG
+1966,Brazil,4.0,1.0,BRA
+1966,Bulgaria,1.0,0.0,BGR
+1966,Chile,1.0,0.0,CHL
+1966,France,1.0,0.0,FRA
+1966,Germany,15.0,4.0,DEU
+1966,Hungary,8.0,2.0,HUN
+1966,Italy,2.0,1.0,ITA
+1966,"Korea, North",4.0,1.0,PRK
+1966,Mexico,0.0,0.0,MEX
+1966,Portugal,17.0,5.0,PRT
+1966,Russia,10.0,4.0,RUS
+1966,Spain,4.0,1.0,ESP
+1966,Switzerland,1.0,0.0,CHE
+1966,United Kingdom,11.0,5.0,GBR
+1966,Uruguay,2.0,1.0,URY
+1970,Belgium,4.0,1.0,BEL
+1970,Brazil,19.0,6.0,BRA
+1970,Bulgaria,4.0,0.0,BGR
+1970,Czech Republic,2.0,0.0,CZE
+1970,El Salvador,0.0,0.0,SLV
+1970,Germany,17.0,5.0,DEU
+1970,Israel,0.0,0.0,ISR
+1970,Italy,10.0,3.0,ITA
+1970,Mexico,6.0,2.0,MEX
+1970,Morocco,1.0,0.0,MAR
+1970,Peru,9.0,2.0,PER
+1970,Romania,4.0,1.0,ROU
+1970,Russia,6.0,2.0,RUS
+1970,Sweden,1.0,1.0,SWE
+1970,United Kingdom,4.0,2.0,GBR
+1970,Uruguay,4.0,2.0,URY
+1974,Argentina,7.0,1.0,ARG
+1974,Australia,0.0,0.0,AUS
+1974,Brazil,6.0,3.0,BRA
+1974,Bulgaria,1.0,0.0,BGR
+1974,Chile,0.0,0.0,CHL
+1974,Germany,16.0,8.0,DEU
+1974,Haiti,2.0,0.0,HTI
+1974,Italy,4.0,1.0,ITA
+1974,Netherlands,15.0,5.0,NLD
+1974,Poland,16.0,6.0,POL
+1974,Scotland,2.0,1.0,
+1974,Sweden,7.0,2.0,SWE
+1974,Uruguay,0.0,0.0,URY
+1974,Yugoslavia,11.0,1.0,
+1974,Zaire,0.0,0.0,
+1978,Argentina,15.0,5.0,ARG
+1978,Austria,7.0,3.0,AUT
+1978,Brazil,9.0,4.0,BRA
+1978,France,5.0,1.0,FRA
+1978,Germany,8.0,1.0,DEU
+1978,Hungary,3.0,0.0,HUN
+1978,Iran,1.0,0.0,IRN
+1978,Italy,9.0,4.0,ITA
+1978,Mexico,2.0,0.0,MEX
+1978,Netherlands,13.0,3.0,NLD
+1978,Peru,7.0,2.0,PER
+1978,Poland,6.0,3.0,POL
+1978,Scotland,4.0,1.0,
+1978,Spain,2.0,1.0,ESP
+1978,Sweden,0.0,0.0,SWE
+1978,Tunisia,3.0,1.0,TUN
+1982,Algeria,5.0,2.0,DZA
+1982,Argentina,8.0,2.0,ARG
+1982,Austria,3.0,2.0,AUT
+1982,Belgium,2.0,2.0,BEL
+1982,Brazil,15.0,4.0,BRA
+1982,Chile,3.0,0.0,CHL
+1982,Czech Republic,0.0,0.0,CZE
+1982,El Salvador,1.0,0.0,SLV
+1982,France,15.0,3.0,FRA
+1982,Germany,12.0,4.0,DEU
+1982,Honduras,0.0,0.0,HND
+1982,Hungary,11.0,1.0,HUN
+1982,Ireland,2.0,1.0,IRL
+1982,Italy,10.0,4.0,ITA
+1982,Kuwait,1.0,0.0,KWT
+1982,New Zealand,2.0,0.0,NZL
+1982,Peru,1.0,0.0,PER
+1982,Poland,11.0,3.0,POL
+1982,Russia,5.0,2.0,RUS
+1982,Scotland,6.0,1.0,
+1982,Spain,3.0,1.0,ESP
+1982,United Kingdom,6.0,3.0,GBR
+1982,Yugoslavia,2.0,1.0,
+1986,Algeria,0.0,0.0,DZA
+1986,Argentina,13.0,6.0,ARG
+1986,Belgium,10.0,3.0,BEL
+1986,Brazil,10.0,4.0,BRA
+1986,Bulgaria,0.0,0.0,BGR
+1986,Canada,0.0,0.0,CAN
+1986,Denmark,10.0,3.0,DNK
+1986,France,11.0,5.0,FRA
+1986,Germany,7.0,4.0,DEU
+1986,Hungary,2.0,1.0,HUN
+1986,Iraq,1.0,0.0,IRQ
+1986,Ireland,1.0,0.0,IRL
+1986,Italy,3.0,1.0,ITA
+1986,"Korea, South",3.0,0.0,KOR
+1986,Mexico,5.0,3.0,MEX
+1986,Morocco,3.0,1.0,MAR
+1986,Paraguay,1.0,1.0,PRY
+1986,Poland,1.0,1.0,POL
+1986,Portugal,2.0,1.0,PRT
+1986,Russia,11.0,2.0,RUS
+1986,Scotland,1.0,0.0,
+1986,Spain,11.0,3.0,ESP
+1986,United Kingdom,7.0,2.0,GBR
+1986,Uruguay,1.0,0.0,URY
+1990,Argentina,4.0,4.0,ARG
+1990,Austria,2.0,1.0,AUT
+1990,Belgium,6.0,2.0,BEL
+1990,Brazil,4.0,3.0,BRA
+1990,Cameroon,7.0,3.0,CMR
+1990,Colombia,3.0,1.0,COL
+1990,Costa Rica,4.0,2.0,CRI
+1990,Czech Republic,10.0,3.0,CZE
+1990,Egypt,0.0,0.0,EGY
+1990,Germany,14.0,6.0,DEU
+1990,Ireland,0.0,1.0,IRL
+1990,Italy,10.0,6.0,ITA
+1990,"Korea, South",1.0,0.0,KOR
+1990,Netherlands,1.0,0.0,NLD
+1990,Romania,3.0,1.0,ROU
+1990,Russia,4.0,1.0,RUS
+1990,Scotland,2.0,1.0,
+1990,Spain,6.0,2.0,ESP
+1990,Sweden,3.0,0.0,SWE
+1990,United Arab Emirates,2.0,0.0,ARE
+1990,United Kingdom,7.0,3.0,GBR
+1990,United States,2.0,0.0,USA
+1990,Uruguay,2.0,1.0,URY
+1990,Yugoslavia,8.0,3.0,
+1994,Argentina,8.0,2.0,ARG
+1994,Belgium,4.0,2.0,BEL
+1994,Bolivia,1.0,0.0,BOL
+1994,Brazil,10.0,6.0,BRA
+1994,Bulgaria,10.0,4.0,BGR
+1994,Cameroon,1.0,0.0,CMR
+1994,Colombia,4.0,1.0,COL
+1994,Germany,8.0,3.0,DEU
+1994,Greece,0.0,0.0,GRC
+1994,Ireland,2.0,1.0,IRL
+1994,Italy,7.0,4.0,ITA
+1994,"Korea, South",2.0,0.0,KOR
+1994,Mexico,3.0,1.0,MEX
+1994,Morocco,2.0,0.0,MAR
+1994,Netherlands,8.0,3.0,NLD
+1994,Nigeria,7.0,2.0,NGA
+1994,Norway,1.0,1.0,NOR
+1994,Romania,10.0,3.0,ROU
+1994,Russia,7.0,1.0,RUS
+1994,Saudi Arabia,5.0,2.0,SAU
+1994,Spain,7.0,2.0,ESP
+1994,Sweden,12.0,4.0,SWE
+1994,Switzerland,4.0,1.0,CHE
+1994,United States,2.0,1.0,USA
+1998,Argentina,10.0,4.0,ARG
+1998,Austria,1.0,0.0,AUT
+1998,Brazil,14.0,5.0,BRA
+1998,Bulgaria,1.0,0.0,BGR
+1998,Cameroon,0.0,0.0,CMR
+1998,Chile,1.0,0.0,CHL
+1998,Colombia,1.0,1.0,COL
+1998,Croatia,11.0,5.0,HRV
+1998,Denmark,8.0,2.0,DNK
+1998,France,15.0,7.0,FRA
+1998,Germany,6.0,3.0,DEU
+1998,Iran,2.0,1.0,IRN
+1998,Italy,6.0,3.0,ITA
+1998,Jamaica,3.0,1.0,JAM
+1998,Japan,1.0,0.0,JPN
+1998,"Korea, South",1.0,0.0,KOR
+1998,Mexico,4.0,1.0,MEX
+1998,Morocco,3.0,1.0,MAR
+1998,Netherlands,11.0,3.0,NLD
+1998,Nigeria,6.0,2.0,NGA
+1998,Norway,2.0,1.0,NOR
+1998,Paraguay,3.0,1.0,PRY
+1998,Romania,3.0,2.0,ROU
+1998,Saudi Arabia,0.0,0.0,SAU
+1998,Scotland,1.0,0.0,
+1998,South Africa,0.0,0.0,ZAF
+1998,Spain,8.0,1.0,ESP
+1998,Tunisia,0.0,0.0,TUN
+1998,United Kingdom,7.0,2.0,GBR
+1998,United States,1.0,0.0,USA
+1998,Yugoslavia,3.0,2.0,
+2002,Argentina,1.0,1.0,ARG
+2002,Belgium,3.0,1.0,BEL
+2002,Brazil,18.0,7.0,BRA
+2002,Cameroon,1.0,1.0,CMR
+2002,China,0.0,0.0,CHN
+2002,Costa Rica,4.0,1.0,CRI
+2002,Croatia,2.0,1.0,HRV
+2002,Denmark,4.0,2.0,DNK
+2002,Ecuador,2.0,1.0,ECU
+2002,France,0.0,0.0,FRA
+2002,Germany,13.0,5.0,DEU
+2002,Ireland,4.0,1.0,IRL
+2002,Italy,4.0,1.0,ITA
+2002,Japan,3.0,2.0,JPN
+2002,"Korea, South",7.0,4.0,KOR
+2002,Mexico,3.0,2.0,MEX
+2002,Nigeria,1.0,0.0,NGA
+2002,Paraguay,4.0,1.0,PRY
+2002,Poland,3.0,1.0,POL
+2002,Portugal,6.0,1.0,PRT
+2002,Russia,4.0,1.0,RUS
+2002,Saudi Arabia,0.0,0.0,SAU
+2002,Senegal,3.0,2.0,SEN
+2002,Slovenia,2.0,0.0,SVN
+2002,South Africa,3.0,1.0,ZAF
+2002,Spain,10.0,4.0,ESP
+2002,Sweden,3.0,1.0,SWE
+2002,Tunisia,0.0,0.0,TUN
+2002,Turkey,9.0,4.0,TUR
+2002,United Kingdom,5.0,2.0,GBR
+2002,United States,6.0,2.0,USA
+2002,Uruguay,1.0,0.0,URY
+2006,Angola,0.0,0.0,AGO
+2006,Argentina,11.0,3.0,ARG
+2006,Australia,3.0,1.0,AUS
+2006,Brazil,10.0,4.0,BRA
+2006,Costa Rica,3.0,0.0,CRI
+2006,Cote d'Ivoire,5.0,1.0,CIV
+2006,Croatia,0.0,0.0,HRV
+2006,Czech Republic,3.0,1.0,CZE
+2006,Ecuador,5.0,2.0,ECU
+2006,France,8.0,4.0,FRA
+2006,Germany,14.0,6.0,DEU
+2006,Ghana,4.0,2.0,GHA
+2006,Iran,1.0,0.0,IRN
+2006,Italy,11.0,6.0,ITA
+2006,Japan,2.0,0.0,JPN
+2006,"Korea, South",2.0,1.0,KOR
+2006,Mexico,5.0,1.0,MEX
+2006,Netherlands,3.0,2.0,NLD
+2006,Paraguay,2.0,1.0,PRY
+2006,Poland,2.0,1.0,POL
+2006,Portugal,7.0,5.0,PRT
+2006,Saudi Arabia,0.0,0.0,SAU
+2006,Serbia,2.0,0.0,SRB
+2006,Spain,9.0,3.0,ESP
+2006,Sweden,1.0,1.0,SWE
+2006,Switzerland,4.0,2.0,CHE
+2006,Togo,1.0,0.0,TGO
+2006,Trinidad and Tobago,0.0,0.0,TTO
+2006,Tunisia,1.0,0.0,TUN
+2006,Ukraine,5.0,3.0,UKR
+2006,United Kingdom,4.0,3.0,GBR
+2006,United States,1.0,0.0,USA
+2010,Algeria,0.0,0.0,DZA
+2010,Argentina,10.0,4.0,ARG
+2010,Australia,2.0,1.0,AUS
+2010,Brazil,9.0,3.0,BRA
+2010,Cameroon,2.0,0.0,CMR
+2010,Chile,3.0,2.0,CHL
+2010,Cote d'Ivoire,4.0,1.0,CIV
+2010,Denmark,3.0,1.0,DNK
+2010,France,1.0,0.0,FRA
+2010,Germany,16.0,5.0,DEU
+2010,Ghana,4.0,2.0,GHA
+2010,Greece,2.0,1.0,GRC
+2010,Honduras,0.0,0.0,HND
+2010,Italy,2.0,0.0,ITA
+2010,Japan,4.0,2.0,JPN
+2010,"Korea, North",1.0,0.0,PRK
+2010,"Korea, South",4.0,1.0,KOR
+2010,Mexico,3.0,1.0,MEX
+2010,Netherlands,12.0,6.0,NLD
+2010,Nigeria,1.0,0.0,NGA
+2010,Paraguay,2.0,2.0,PRY
+2010,Portugal,7.0,1.0,PRT
+2010,Serbia,2.0,1.0,SRB
+2010,Slovakia,4.0,1.0,SVK
+2010,Slovenia,1.0,1.0,SVN
+2010,South Africa,2.0,1.0,ZAF
+2010,Spain,8.0,6.0,ESP
+2010,Switzerland,1.0,1.0,CHE
+2010,United Kingdom,2.0,1.0,GBR
+2010,United States,2.0,1.0,USA
+2010,Uruguay,11.0,4.0,URY
+2014,Algeria,7.0,1.0,DZA
+2014,Argentina,10.0,9.0,ARG
+2014,Australia,3.0,0.0,AUS
+2014,Belgium,8.0,5.0,BEL
+2014,Bosnia and Herzegovina,4.0,1.0,BIH
+2014,Brazil,15.0,6.0,BRA
+2014,Cameroon,1.0,0.0,CMR
+2014,Chile,7.0,2.0,CHL
+2014,Colombia,15.0,5.0,COL
+2014,Costa Rica,6.0,4.0,CRI
+2014,Cote d'Ivoire,4.0,1.0,CIV
+2014,Croatia,6.0,1.0,HRV
+2014,Ecuador,3.0,1.0,ECU
+2014,France,12.0,4.0,FRA
+2014,Germany,27.0,10.0,DEU
+2014,Ghana,2.0,0.0,GHA
+2014,Greece,4.0,1.0,GRC
+2014,Honduras,1.0,0.0,HND
+2014,Iran,1.0,0.0,IRN
+2014,Italy,2.0,1.0,ITA
+2014,Japan,2.0,0.0,JPN
+2014,"Korea, South",2.0,0.0,KOR
+2014,Mexico,6.0,2.0,MEX
+2014,Netherlands,20.0,9.0,NLD
+2014,Nigeria,3.0,1.0,NGA
+2014,Portugal,2.0,1.0,PRT
+2014,Russia,0.0,0.0,RUS
+2014,Spain,4.0,1.0,ESP
+2014,Switzerland,7.0,2.0,CHE
+2014,United Kingdom,2.0,0.0,GBR
+2014,United States,4.0,1.0,USA
+2014,Uruguay,4.0,2.0,URY
+2018,Argentina,5.0,1.0,ARG
+2018,Australia,1.0,0.0,AUS
+2018,Belgium,16.0,6.0,BEL
+2018,Brazil,7.0,3.0,BRA
+2018,Colombia,6.0,2.0,COL
+2018,Costa Rica,0.0,0.0,CRI
+2018,Croatia,14.0,6.0,HRV
+2018,Denmark,2.0,1.0,DNK
+2018,Egypt,2.0,0.0,EGY
+2018,France,14.0,6.0,FRA
+2018,Germany,2.0,1.0,DEU
+2018,Iceland,1.0,0.0,ISL
+2018,Iran,1.0,1.0,IRN
+2018,Japan,4.0,1.0,JPN
+2018,"Korea, South",3.0,1.0,KOR
+2018,Mexico,3.0,2.0,MEX
+2018,Morocco,0.0,0.0,MAR
+2018,Nigeria,3.0,1.0,NGA
+2018,Panama,2.0,0.0,PAN
+2018,Peru,2.0,1.0,PER
+2018,Poland,2.0,1.0,POL
+2018,Portugal,2.0,1.0,PRT
+2018,Russia,11.0,3.0,RUS
+2018,Saudi Arabia,2.0,1.0,SAU
+2018,Senegal,2.0,1.0,SEN
+2018,Serbia,2.0,1.0,SRB
+2018,Spain,2.0,1.0,ESP
+2018,Sweden,6.0,3.0,SWE
+2018,Switzerland,2.0,1.0,CHE
+2018,Tunisia,5.0,1.0,TUN
+2018,United Kingdom,12.0,4.0,GBR
+2018,Uruguay,7.0,4.0,URY

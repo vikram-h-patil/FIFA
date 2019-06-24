@@ -1,0 +1,917 @@
+Year,Stage,away_team,date,home_team,home_result,away_result,winner
+1930,Group A,Mexico,13/07/1930 15:00,France,4,1,France
+1930,Group D,Belgium,13/07/1930 15:00,United States,3,0,United States
+1930,Group B,Brazil,14/07/1930 12:45,Yugoslavia,2,1,Yugoslavia
+1930,Group C,Peru,14/07/1930 14:50,Romania,3,1,Romania
+1930,Group A,France,15/07/1930 16:00,Argentina,1,0,Argentina
+1930,Group A,Mexico,16/07/1930 14:45,Chile,3,0,Chile
+1930,Group B,Bolivia,17/07/1930 12:45,Yugoslavia,4,0,Yugoslavia
+1930,Group D,Paraguay,17/07/1930 14:45,United States,3,0,United States
+1930,Group C,Peru,18/07/1930 14:30,Uruguay,1,0,Uruguay
+1930,Group A,France,19/07/1930 12:50,Chile,1,0,Chile
+1930,Group A,Mexico,19/07/1930 15:00,Argentina,6,3,Argentina
+1930,Group B,Bolivia,20/07/1930 13:00,Brazil,4,0,Brazil
+1930,Group D,Belgium,20/07/1930 15:00,Paraguay,1,0,Paraguay
+1930,Group C,Romania,21/07/1930 14:50,Uruguay,4,0,Uruguay
+1930,Group A,Chile,22/07/1930 14:45,Argentina,3,1,Argentina
+1930,Semi-finals,United States,26/07/1930 14:45,Argentina,6,1,Argentina
+1930,Semi-finals,Yugoslavia,27/07/1930 14:45,Uruguay,6,1,Uruguay
+1930,Final,Argentina,30/07/1930 14:15,Uruguay,4,2,Uruguay
+1934,First round,France,27/05/1934 16:30,Austria,3,2,Austria 
+1934,First round,Egypt,27/05/1934 16:30,Hungary,4,2,Hungary
+1934,First round,Netherlands,27/05/1934 16:30,Switzerland,3,2,Switzerland
+1934,First round,Argentina,27/05/1934 16:30,Sweden,3,2,Sweden
+1934,First round,Belgium,27/05/1934 16:30,Germany,5,2,Germany
+1934,First round,Brazil,27/05/1934 16:30,Spain,3,1,Spain
+1934,First round,United States,27/05/1934 16:30,Italy,7,1,Italy
+1934,First round,Romania,27/05/1934 16:30,Czech Republic,2,1,Czech Republic
+1934,Quarter-finals,Switzerland,31/05/1934 16:30,Czech Republic,3,2,Czech Republic
+1934,Quarter-finals,Sweden,31/05/1934 16:30,Germany,2,1,Germany
+1934,Quarter-finals,Spain,31/05/1934 16:30,Italy,1,1,draw
+1934,Quarter-finals,Hungary,31/05/1934 16:30,Austria,2,1,Austria
+1934,Quarter-finals,Spain,1/06/1934 16:30,Italy,1,0,Italy
+1934,Semi-finals,Austria,3/06/1934 16:30,Italy,1,0,Italy
+1934,Semi-finals,Germany,3/06/1934 16:30,Czech Republic,3,1,Czech Republic
+1934,Third place,Austria,7/06/1934 18:00,Germany,3,2,Germany
+1934,Final,Czech Republic,10/06/1934 17:30,Italy,2,1,Italy 
+1938,First round,Germany,4/06/1938 17:00,Switzerland,1,1,draw
+1938,First round,Dutch East Indies,5/06/1938 17:00,Hungary,6,0,Hungary
+1938,First round,Belgium,5/06/1938 17:00,France,3,1,France
+1938,First round,Romania,5/06/1938 17:00,Cuba,3,3,draw
+1938,First round,Norway,5/06/1938 17:00,Italy,2,1,Italy 
+1938,First round,Poland,5/06/1938 17:30,Brazil,6,5,Brazil 
+1938,First round,Netherlands,5/06/1938 18:30,Czech Republic,3,0,Czech Republic 
+1938,First round,Romania,9/06/1938 18:00,Cuba,2,1,Cuba
+1938,First round,Germany,9/06/1938 18:00,Switzerland,4,2,Switzerland
+1938,Quarter-finals,Czech Republic,12/06/1938 17:00,Brazil,1,1,draw
+1938,Quarter-finals,Switzerland,12/06/1938 17:00,Hungary,2,0,Hungary
+1938,Quarter-finals,Cuba,12/06/1938 17:00,Sweden,8,0,Sweden
+1938,Quarter-finals,France,12/06/1938 17:00,Italy,3,1,Italy
+1938,Quarter-finals,Czech Republic,14/06/1938 18:00,Brazil,2,1,Brazil
+1938,Semi-finals,Sweden,16/06/1938 18:00,Hungary,5,1,Hungary
+1938,Semi-finals,Brazil,16/06/1938 18:00,Italy,2,1,Italy
+1938,Third place,Sweden,19/06/1938 17:00,Brazil,4,2,Brazil
+1938,Final,Hungary,19/06/1938 17:00,Italy,4,2,Italy
+1950,Group A,Mexico,24/06/1950 15:00,Brazil,4,0,Brazil
+1950,Group B,Chile,25/06/1950 15:00,United Kingdom,2,0,United Kingdom
+1950,Group B,United States,25/06/1950 15:00,Spain,3,1,Spain
+1950,Group C,Italy,25/06/1950 15:00,Sweden,3,2,Sweden
+1950,Group A,Switzerland,25/06/1950 15:00,Yugoslavia,3,0,Yugoslavia
+1950,Group A,Switzerland,28/06/1950 15:00,Brazil,2,2,draw
+1950,Group A,Mexico,28/06/1950 15:00,Yugoslavia,4,1,Yugoslavia
+1950,Group B,Chile,29/06/1950 15:00,Spain,2,0,Spain
+1950,Group C,Paraguay,29/06/1950 15:30,Sweden,2,2,draw
+1950,Group B,United Kingdom,29/06/1950 15:00,United States,1,0,United States
+1950,Group A,Yugoslavia,1/07/1950 15:00,Brazil,2,0,Brazil
+1950,Group B,United Kingdom,2/07/1950 15:00,Spain,1,0,Spain
+1950,Group C,Paraguay,2/07/1950 15:00,Italy,2,0,Italy
+1950,Group D,Bolivia,2/07/1950 15:00,Uruguay,8,0,Uruguay
+1950,Group A,Mexico,2/07/1950 15:40,Switzerland,2,1,Switzerland
+1950,Group B,United States,2/07/1950 15:00,Chile,5,2,Chile
+1950,Group F,Spain,9/07/1950 15:00,Uruguay,2,2,draw
+1950,Group F,Sweden,9/07/1950 15:00,Brazil,7,1,Brazil
+1950,Group F,Spain,13/07/1950 15:00,Brazil,6,1,Brazil
+1950,Group F,Sweden,13/07/1950 15:00,Uruguay,3,2,Uruguay
+1950,Group F,Spain,16/07/1950 15:00,Sweden,3,1,Sweden
+1950,Group F,Brazil,16/07/1950 15:00,Uruguay,2,1,Uruguay
+1954,Group C,Czech Republic,16/06/1954 18:00,Uruguay,2,0,Uruguay
+1954,Group C,Scotland,16/06/1954 18:00,Austria,1,0,Austria
+1954,Group A,Mexico,16/06/1954 18:00,Brazil,5,0,Brazil
+1954,Group A,France,16/06/1954 18:00,Yugoslavia,1,0,Yugoslavia
+1954,Group B,Turkey,17/06/1954 18:00,Germany,4,1,Germany
+1954,Group B,"Korea, South",17/06/1954 18:00,Hungary,9,0,Hungary
+1954,Group D,Belgium,17/06/1954 18:10,United Kingdom,4,4,draw
+1954,Group D,Italy,17/06/1954 17:50,Switzerland,2,1,Switzerland
+1954,Group C,Scotland,19/06/1954 16:50,Uruguay,7,0,Uruguay
+1954,Group C,Czech Republic,19/06/1954 17:00,Austria,5,0,Austria
+1954,Group A,Mexico,19/06/1954 17:10,France,3,2,France
+1954,Group A,Yugoslavia,19/06/1954 17:00,Brazil,1,1,draw
+1954,Group B,Germany,20/06/1954 16:50,Hungary,8,3,Hungary
+1954,Group B,"Korea, South",20/06/1954 17:00,Turkey,7,0,Turkey
+1954,Group D,Switzerland,20/06/1954 17:10,United Kingdom,2,0,United Kingdom
+1954,Group D,Belgium,20/06/1954 17:00,Italy,4,1,Italy
+1954,Group B,Turkey,23/06/1954 18:00,Germany,7,2,Germany
+1954,Group D,Italy,23/06/1954 18:00,Switzerland,4,1,Switzerland
+1954,Quarter-finals,United Kingdom,26/06/1954 17:00,Uruguay,4,2,Uruguay
+1954,Quarter-finals,Switzerland,26/06/1954 17:00,Austria,7,5,Austria
+1954,Quarter-finals,Yugoslavia,27/06/1954 17:00,Germany,2,0,Germany
+1954,Quarter-finals,Brazil,27/06/1954 17:00,Hungary,4,2,Hungary
+1954,Semi-finals,Austria,30/06/1954 18:00,Germany,6,1,Germany
+1954,Semi-finals,Uruguay,30/06/1954 18:00,Hungary,4,2,Hungary 
+1954,Third place,Uruguay,3/07/1954 17:00,Austria,3,1,Austria
+1954,Final,Hungary,4/07/1954 17:00,Germany,3,2,Germany
+1958,Group C,Mexico,8/06/1958 14:00,Sweden,3,0,Sweden
+1958,Group D,United Kingdom,8/06/1958 19:00,Russia,2,2,draw
+1958,Group A,Germany,8/06/1958 19:00,Argentina,1,3,Germany
+1958,Group C,Wales,8/06/1958 19:00,Hungary,1,1,draw
+1958,Group B,Paraguay,8/06/1958 19:00,France,7,3,France
+1958,Group B,Scotland,8/06/1958 19:00,Yugoslavia,1,1,draw
+1958,Group D,Austria,8/06/1958 19:00,Brazil,3,0,Brazil
+1958,Group A,Czech Republic,8/06/1958 19:00,Ireland,1,0,Ireland
+1958,Group D,United Kingdom,11/06/1958 19:00,Brazil,0,0,draw
+1958,Group C,Wales,11/06/1958 19:00,Mexico,1,1,draw
+1958,Group B,Scotland,11/06/1958 19:00,Paraguay,3,2,Paraguay
+1958,Group B,France,11/06/1958 19:00,Yugoslavia,3,2,Yugoslavia
+1958,Group D,Austria,11/06/1958 19:00,Russia,2,0,Russia
+1958,Group A,Czech Republic,11/06/1958 19:00,Germany,2,2,draw
+1958,Group A,Ireland,11/06/1958 19:00,Argentina,3,1,Argentina
+1958,Group C,Hungary,12/06/1958 19:00,Sweden,2,1,Sweden
+1958,Group C,Wales,15/06/1958 14:00,Sweden,0,0,draw
+1958,Group D,Russia,15/06/1958 19:00,Brazil,2,0,Brazil
+1958,Group A,Ireland,15/06/1958 19:00,Germany,2,2,draw
+1958,Group C,Mexico,15/06/1958 19:00,Hungary,4,0,Hungary
+1958,Group B,Yugoslavia,15/06/1958 19:00,Paraguay,3,3,draw
+1958,Group B,Scotland,15/06/1958 19:00,France,2,1,France
+1958,Group D,Austria,15/06/1958 19:00,United Kingdom,2,2,draw
+1958,Group A,Argentina,15/06/1958 19:00,Czech Republic,6,1,Czech Republic
+1958,Group D,United Kingdom,17/06/1958 19:00,Russia,1,0,Russia
+1958,Group A,Czech Republic,17/06/1958 19:00,Ireland,2,1,Ireland 
+1958,Group C,Hungary,17/06/1958 19:00,Wales,2,1,Wales
+1958,Quarter-finals,Wales,19/06/1958 19:00,Brazil,1,0,Brazil
+1958,Quarter-finals,Yugoslavia,19/06/1958 19:00,Germany,1,0,Germany
+1958,Quarter-finals,Russia,19/06/1958 19:00,Sweden,2,0,Sweden
+1958,Quarter-finals,Ireland,19/06/1958 19:00,France,4,0,France
+1958,Semi-finals,Germany,24/06/1958 19:00,Sweden,3,1,Sweden
+1958,Semi-finals,France,24/06/1958 19:00,Brazil,5,2,Brazil
+1958,Third place,Germany,28/06/1958 17:00,France,6,3,France
+1958,Final,Sweden,29/06/1958 15:00,Brazil,5,2,Brazil
+1962,Group A,Colombia,30/05/1962 15:00,Uruguay,2,1,Uruguay
+1962,Group C,Mexico,30/05/1962 15:00,Brazil,2,0,Brazil
+1962,Group D,Bulgaria,30/05/1962 15:00,Argentina,1,0,Argentina
+1962,Group B,Switzerland,30/05/1962 15:00,Chile,3,1,Chile
+1962,Group A,Yugoslavia,31/05/1962 15:00,Russia,2,0,Russia
+1962,Group C,Spain,31/05/1962 15:00,Czech Republic,1,0,Czech Republic
+1962,Group D,United Kingdom,31/05/1962 15:00,Hungary,2,1,Hungary
+1962,Group B,Italy,31/05/1962 15:00,Germany,0,0,draw
+1962,Group A,Uruguay,2/06/1962 15:00,Yugoslavia,3,1,Yugoslavia
+1962,Group C,Czech Republic,2/06/1962 15:00,Brazil,0,0,draw
+1962,Group D,Argentina,2/06/1962 15:00,United Kingdom,3,1,United Kingdom
+1962,Group B,Italy,2/06/1962 15:00,Chile,2,0,Chile
+1962,Group A,Colombia,3/06/1962 15:00,Russia,4,4,draw
+1962,Group C,Mexico,3/06/1962 15:00,Spain,1,0,Spain
+1962,Group D,Bulgaria,3/06/1962 15:00,Hungary,6,1,Hungary
+1962,Group B,Switzerland,3/06/1962 15:00,Germany,2,1,Germany
+1962,Group A,Uruguay,6/06/1962 15:00,Russia,2,1,Russia
+1962,Group C,Spain,6/06/1962 15:00,Brazil,2,1,Brazil
+1962,Group D,Argentina,6/06/1962 15:00,Hungary,0,0,draw
+1962,Group B,Chile,6/06/1962 15:00,Germany,2,0,Germany
+1962,Group A,Colombia,7/06/1962 15:00,Yugoslavia,5,0,Yugoslavia
+1962,Group C,Czech Republic,7/06/1962 15:00,Mexico,3,1,Mexico
+1962,Group D,Bulgaria,7/06/1962 15:00,United Kingdom,0,0,draw
+1962,Group B,Switzerland,7/06/1962 15:00,Italy,3,0,Italy
+1962,Quarter-finals,Russia,10/06/1962 14:30,Chile,2,1,Chile
+1962,Quarter-finals,United Kingdom,10/06/1962 14:30,Brazil,3,1,Brazil
+1962,Quarter-finals,Hungary,10/06/1962 14:30,Czech Republic,1,0,Czech Republic
+1962,Quarter-finals,Germany,10/06/1962 14:30,Yugoslavia,1,0,Yugoslavia
+1962,Semi-finals,Yugoslavia,13/06/1962 14:30,Czech Republic,3,1,Czech Republic
+1962,Semi-finals,Chile,13/06/1962 14:30,Brazil,4,2,Brazil
+1962,Third place,Yugoslavia,16/06/1962 14:30,Chile,1,0,Chile
+1962,Final,Czech Republic,17/06/1962 14:30,Brazil,3,1,Brazil
+1966,Group A,Uruguay,11/07/1966 19:30,United Kingdom,0,0,draw
+1966,Group B,Switzerland,12/07/1966 19:30,Germany,5,0,Germany
+1966,Group C,Bulgaria,12/07/1966 19:30,Brazil,2,0,Brazil
+1966,Group D,"Korea, North",12/07/1966 19:30,Russia,3,0,Russia
+1966,Group A,Mexico,13/07/1966 19:30,France,1,1,draw
+1966,Group C,Hungary,13/07/1966 19:30,Portugal,3,1,Portugal
+1966,Group B,Spain,13/07/1966 19:30,Argentina,2,1,Argentina
+1966,Group D,Chile,13/07/1966 19:30,Italy,2,0,Italy
+1966,Group A,France,15/07/1966 19:30,Uruguay,2,1,Uruguay
+1966,Group B,Switzerland,15/07/1966 19:30,Spain,2,1,Spain
+1966,Group C,Brazil,15/07/1966 19:30,Hungary,3,1,Hungary
+1966,Group D,Chile,15/07/1966 19:30,"Korea, North",1,1,draw
+1966,Group C,Bulgaria,16/07/1966 15:00,Portugal,3,0,Portugal
+1966,Group B,Argentina,16/07/1966 15:00,Germany,0,0,draw
+1966,Group D,Italy,16/07/1966 15:00,Russia,1,0,Russia
+1966,Group A,Mexico,16/07/1966 19:30,United Kingdom,2,0,United Kingdom
+1966,Group A,Mexico,19/07/1966 16:30,Uruguay,0,0,draw
+1966,Group B,Switzerland,19/07/1966 19:30,Argentina,2,0,Argentina
+1966,Group C,Brazil,19/07/1966 19:30,Portugal,3,1,Portugal
+1966,Group D,Italy,19/07/1966 19:30,"Korea, North",1,0,"Korea, North"
+1966,Group A,France,20/07/1966 19:30,United Kingdom,2,0,United Kingdom
+1966,Group C,Bulgaria,20/07/1966 19:30,Hungary,3,1,Hungary
+1966,Group B,Spain,20/07/1966 19:30,Germany,2,1,Germany
+1966,Group D,Chile,20/07/1966 19:30,Russia,2,1,Russia
+1966,Quarter-finals,Argentina,23/07/1966 15:00,United Kingdom,1,0,United Kingdom
+1966,Quarter-finals,Uruguay,23/07/1966 15:00,Germany,4,0,Germany
+1966,Quarter-finals,Hungary,23/07/1966 15:00,Russia,2,1,Russia
+1966,Quarter-finals,"Korea, North",23/07/1966 15:00,Portugal,5,3,Portugal
+1966,Semi-finals,Russia,25/07/1966 19:30,Germany,2,1,Germany
+1966,Semi-finals,Portugal,26/07/1966 19:30,United Kingdom,2,1,United Kingdom
+1966,Third place,Russia,28/07/1966 19:30,Portugal,2,1,Portugal
+1966,Final,Germany,30/07/1966 15:00,United Kingdom,4,2,United Kingdom 
+1970,Group A,Russia,31/05/1970 12:00,Mexico,0,0,draw
+1970,Group B,Israel,2/06/1970 16:00,Uruguay,2,0,Uruguay
+1970,Group D,Bulgaria,2/06/1970 16:00,Peru,3,2,Peru
+1970,Group C,Romania,2/06/1970 16:00,United Kingdom,1,0,United Kingdom
+1970,Group B,Sweden,3/06/1970 16:00,Italy,1,0,Italy
+1970,Group D,Morocco,3/06/1970 16:00,Germany,2,1,Germany
+1970,Group C,Czech Republic,3/06/1970 16:00,Brazil,4,1,Brazil
+1970,Group A,El Salvador,3/06/1970 16:00,Belgium,3,0,Belgium
+1970,Group B,Italy,6/06/1970 16:00,Uruguay,0,0,draw
+1970,Group D,Morocco,6/06/1970 16:00,Peru,3,0,Peru
+1970,Group C,Czech Republic,6/06/1970 16:00,Romania,2,1,Romania
+1970,Group A,Belgium,6/06/1970 16:00,Russia,4,1,Russia
+1970,Group B,Israel,7/06/1970 12:00,Sweden,1,1,draw
+1970,Group D,Bulgaria,7/06/1970 12:00,Germany,5,2,Germany
+1970,Group C,United Kingdom,7/06/1970 12:00,Brazil,1,0,Brazil
+1970,Group A,El Salvador,7/06/1970 12:00,Mexico,4,0,Mexico
+1970,Group B,Uruguay,10/06/1970 16:00,Sweden,1,0,Sweden
+1970,Group D,Peru,10/06/1970 16:00,Germany,3,1,Germany
+1970,Group C,Romania,10/06/1970 16:00,Brazil,3,2,Brazil
+1970,Group A,El Salvador,10/06/1970 16:00,Russia,2,0,Russia
+1970,Group B,Israel,11/06/1970 16:00,Italy,0,0,draw
+1970,Group D,Morocco,11/06/1970 16:00,Bulgaria,1,1,draw
+1970,Group C,Czech Republic,11/06/1970 16:00,United Kingdom,1,0,United Kingdom
+1970,Group A,Belgium,11/06/1970 16:00,Mexico,1,0,Mexico
+1970,Quarter-finals,Mexico,14/06/1970 12:00,Italy,4,1,Italy
+1970,Quarter-finals,United Kingdom,14/06/1970 12:00,Germany,3,2,Germany 
+1970,Quarter-finals,Peru,14/06/1970 12:00,Brazil,4,2,Brazil
+1970,Quarter-finals,Russia,14/06/1970 12:00,Uruguay,1,0,Uruguay 
+1970,Semi-finals,Uruguay,17/06/1970 16:00,Brazil,3,1,Brazil
+1970,Semi-finals,Germany,17/06/1970 16:00,Italy,4,3,Italy 
+1970,Third place,Uruguay,20/06/1970 16:00,Germany,1,0,Germany
+1970,Final,Italy,21/06/1970 12:00,Brazil,4,1,Brazil
+1974,Group B,Yugoslavia,13/06/1974 17:00,Brazil,0,0,draw
+1974,Group A,Chile,14/06/1974 16:00,Germany,1,0,Germany
+1974,Group A,Australia,14/06/1974 19:30,Germany,2,0,Germany
+1974,Group B,Scotland,14/06/1974 19:30,Zaire,0,2,Scotland
+1974,Group C,Netherlands,15/06/1974 16:00,Uruguay,0,2,Netherlands
+1974,Group C,Bulgaria,15/06/1974 16:00,Sweden,0,0,draw
+1974,Group D,Haiti,15/06/1974 18:00,Italy,3,1,Italy
+1974,Group D,Argentina,15/06/1974 18:00,Poland,3,2,Poland
+1974,Group A,Germany,18/06/1974 16:00,Australia,0,3,Germany
+1974,Group B,Brazil,18/06/1974 19:30,Scotland,0,0,draw
+1974,Group A,Germany,18/06/1974 19:30,Chile,1,1,draw
+1974,Group B,Zaire,18/06/1974 19:30,Yugoslavia,9,0,Yugoslavia
+1974,Group C,Sweden,19/06/1974 19:30,Netherlands,0,0,draw
+1974,Group C,Uruguay,19/06/1974 19:30,Bulgaria,1,1,draw
+1974,Group D,Poland,19/06/1974 19:30,Haiti,0,7,Poland
+1974,Group D,Italy,19/06/1974 19:30,Argentina,1,1,draw
+1974,Group B,Yugoslavia,22/06/1974 16:00,Scotland,1,1,draw
+1974,Group A,Chile,22/06/1974 16:00,Australia,0,0,draw
+1974,Group B,Brazil,22/06/1974 16:00,Zaire,0,3,Brazil
+1974,Group A,Germany,22/06/1974 19:30,Germany,1,0,Germany
+1974,Group C,Netherlands,23/06/1974 16:00,Bulgaria,1,4,Netherlands
+1974,Group D,Haiti,23/06/1974 16:00,Argentina,4,1,Argentina
+1974,Group C,Uruguay,23/06/1974 16:00,Sweden,3,0,Sweden
+1974,Group D,Italy,23/06/1974 16:00,Poland,2,1,Poland
+1974,Group B,Germany,26/06/1974 16:00,Yugoslavia,0,2,Germany
+1974,Group A,Germany,26/06/1974 19:30,Brazil,1,0,Brazil
+1974,Group A,Argentina,26/06/1974 19:30,Netherlands,4,0,Netherlands
+1974,Group B,Poland,26/06/1974 19:30,Sweden,0,1,Poland
+1974,Group A,Brazil,30/06/1974 16:00,Argentina,1,2,Brazil
+1974,Group B,Yugoslavia,30/06/1974 16:00,Poland,2,1,Poland
+1974,Group A,Netherlands,30/06/1974 16:00,Germany,0,2,Netherlands
+1974,Group B,Sweden,30/06/1974 19:30,Germany,4,2,Germany
+1974,Group B,Germany,3/07/1974 17:00,Poland,0,1,Germany
+1974,Group A,Brazil,3/07/1974 19:30,Netherlands,2,0,Netherlands
+1974,Group A,Germany,3/07/1974 19:30,Argentina,1,1,draw
+1974,Group B,Yugoslavia,3/07/1974 19:30,Sweden,2,1,Sweden
+1974,Third place,Poland,6/07/1974 16:00,Brazil,0,1,Poland
+1974,Final,Germany,7/07/1974 16:00,Netherlands,1,2,Germany
+1978,Group B,Poland,1/06/1978 15:00,Germany,0,0,draw
+1978,Group A,France,2/06/1978 13:45,Italy,2,1,Italy
+1978,Group B,Mexico,2/06/1978 16:45,Tunisia,3,1,Tunisia
+1978,Group A,Hungary,2/06/1978 19:15,Argentina,2,1,Argentina
+1978,Group C,Brazil,3/06/1978 13:45,Sweden,1,1,draw
+1978,Group C,Spain,3/06/1978 13:45,Austria,2,1,Austria
+1978,Group D,Scotland,3/06/1978 16:45,Peru,3,1,Peru
+1978,Group D,Iran,3/06/1978 16:45,Netherlands,3,0,Netherlands
+1978,Group A,Hungary,6/06/1978 13:45,Italy,3,1,Italy
+1978,Group B,Tunisia,6/06/1978 16:45,Poland,1,0,Poland
+1978,Group B,Mexico,6/06/1978 16:45,Germany,6,0,Germany
+1978,Group A,France,6/06/1978 19:15,Argentina,2,1,Argentina
+1978,Group C,Spain,7/06/1978 13:45,Brazil,0,0,draw
+1978,Group C,Sweden,7/06/1978 13:45,Austria,1,0,Austria
+1978,Group D,Iran,7/06/1978 16:45,Scotland,1,1,draw
+1978,Group D,Peru,7/06/1978 16:45,Netherlands,0,0,draw
+1978,Group A,Hungary,10/06/1978 15:10,France,3,1,France
+1978,Group B,Mexico,10/06/1978 16:45,Poland,3,1,Poland
+1978,Group B,Tunisia,10/06/1978 16:45,Germany,0,0,draw
+1978,Group A,Argentina,10/06/1978 19:15,Italy,1,0,Italy
+1978,Group C,Austria,11/06/1978 13:45,Brazil,1,0,Brazil
+1978,Group C,Sweden,11/06/1978 13:45,Spain,1,0,Spain
+1978,Group D,Iran,11/06/1978 16:45,Peru,4,1,Peru
+1978,Group D,Netherlands,11/06/1978 16:45,Scotland,3,2,Scotland
+1978,Group A,Italy,14/06/1978 13:45,Germany,0,0,draw
+1978,Group A,Austria,14/06/1978 13:45,Netherlands,5,1,Netherlands
+1978,Group B,Peru,14/06/1978 16:45,Brazil,3,0,Brazil
+1978,Group B,Poland,14/06/1978 19:15,Argentina,2,0,Argentina
+1978,Group B,Peru,18/06/1978 13:45,Poland,1,0,Poland
+1978,Group A,Austria,18/06/1978 16:45,Italy,1,0,Italy
+1978,Group A,Netherlands,18/06/1978 16:45,Germany,2,2,draw
+1978,Group B,Brazil,18/06/1978 19:15,Argentina,0,0,draw
+1978,Group A,Italy,21/06/1978 13:45,Netherlands,2,1,Netherlands
+1978,Group A,Germany,21/06/1978 13:45,Austria,3,2,Austria
+1978,Group B,Poland,21/06/1978 16:45,Brazil,3,1,Brazil
+1978,Group B,Peru,21/06/1978 19:15,Argentina,6,0,Argentina
+1978,Third place,Italy,24/06/1978 15:00,Brazil,2,1,Brazil
+1978,Final,Netherlands,25/06/1978 15:00,Argentina,3,1,Argentina
+1982,Group C,Belgium,13/06/1982 20:00,Argentina,0,1,Belgium
+1982,Group A,Poland,14/06/1982 17:15,Italy,0,0,draw
+1982,Group F,Russia,14/06/1982 21:00,Brazil,2,1,Brazil
+1982,Group A,Cameroon,15/06/1982 17:15,Peru,0,0,draw
+1982,Group C,El Salvador,15/06/1982 21:00,Hungary,10,1,Hungary
+1982,Group F,New Zealand,15/06/1982 21:00,Scotland,5,2,Scotland
+1982,Group B,Algeria,16/06/1982 17:15,Germany,1,2,Algeria
+1982,Group D,France,16/06/1982 17:15,United Kingdom,3,1,United Kingdom
+1982,Group E,Honduras,16/06/1982 21:00,Spain,1,1,draw
+1982,Group B,Austria,17/06/1982 17:15,Chile,0,1,Austria
+1982,Group D,Kuwait,17/06/1982 17:45,Czech Republic,1,1,draw
+1982,Group E,Ireland,17/06/1982 21:00,Yugoslavia,0,0,draw
+1982,Group A,Peru,18/06/1982 17:15,Italy,1,1,draw
+1982,Group C,Hungary,18/06/1982 21:00,Argentina,4,1,Argentina
+1982,Group F,Scotland,18/06/1982 21:00,Brazil,4,1,Brazil
+1982,Group A,Cameroon,19/06/1982 19:15,Poland,0,0,draw
+1982,Group C,El Salvador,19/06/1982 21:00,Belgium,1,0,Belgium
+1982,Group F,New Zealand,19/06/1982 21:00,Russia,3,0,Russia
+1982,Group B,Chile,20/06/1982 17:15,Germany,4,1,Germany
+1982,Group D,Czech Republic,20/06/1982 17:15,United Kingdom,2,0,United Kingdom
+1982,Group E,Yugoslavia,20/06/1982 21:00,Spain,2,1,Spain
+1982,Group B,Austria,21/06/1982 17:15,Algeria,0,2,Austria
+1982,Group D,Kuwait,21/06/1982 17:15,France,4,1,France
+1982,Group E,Ireland,21/06/1982 21:00,Honduras,1,1,draw
+1982,Group A,Peru,22/06/1982 17:15,Poland,5,1,Poland
+1982,Group C,Hungary,22/06/1982 21:00,Belgium,1,1,draw
+1982,Group F,Scotland,22/06/1982 21:00,Russia,2,2,draw
+1982,Group A,Cameroon,23/06/1982 17:15,Italy,1,1,draw
+1982,Group C,El Salvador,23/06/1982 21:00,Argentina,2,0,Argentina
+1982,Group F,New Zealand,23/06/1982 21:00,Brazil,4,0,Brazil
+1982,Group B,Chile,24/06/1982 17:15,Algeria,3,2,Algeria
+1982,Group D,Czech Republic,24/06/1982 17:15,France,1,1,draw
+1982,Group E,Yugoslavia,24/06/1982 21:00,Honduras,0,1,Yugoslavia
+1982,Group B,Austria,25/06/1982 17:15,Germany,1,0,Germany
+1982,Group D,Kuwait,25/06/1982 17:15,United Kingdom,1,0,United Kingdom
+1982,Group E,Spain,25/06/1982 21:00,Ireland,1,0,Ireland
+1982,Group D,France,28/06/1982 17:15,Austria,0,1,France
+1982,Group A,Belgium,28/06/1982 21:00,Poland,3,0,Poland
+1982,Group C,Argentina,29/06/1982 17:15,Italy,2,1,Italy
+1982,Group B,United Kingdom,29/06/1982 21:00,Germany,0,0,draw
+1982,Group D,Ireland,1/07/1982 17:15,Austria,2,2,draw
+1982,Group A,Russia,1/07/1982 21:00,Belgium,0,1,Russia
+1982,Group C,Brazil,2/07/1982 17:15,Argentina,1,3,Brazil
+1982,Group B,Spain,2/07/1982 21:00,Germany,2,1,Germany
+1982,Group D,Ireland,4/07/1982 17:15,France,4,1,France
+1982,Group A,Russia,4/07/1982 21:00,Poland,0,0,draw
+1982,Group C,Brazil,5/07/1982 17:15,Italy,3,2,Italy
+1982,Group B,United Kingdom,5/07/1982 21:00,Spain,0,0,draw
+1982,Semi-finals,Italy,8/07/1982 17:15,Poland,0,2,Italy
+1982,Semi-finals,France,8/07/1982 21:00,Germany,3,3, Germany 
+1982,Third place,France,10/07/1982 20:00,Poland,3,2,Poland
+1982,Final,Germany,11/07/1982 20:00,Italy,3,1,Italy
+1986,Group A,Italy,31/05/1986 12:00,Bulgaria,1,1,draw
+1986,Group C,France,1/06/1986 16:00,Canada,0,1,France
+1986,Group D,Brazil,1/06/1986 12:00,Spain,0,1,Brazil
+1986,Group C,Hungary,2/06/1986 12:00,Russia,6,0,Russia
+1986,Group A,"Korea, South",2/06/1986 12:00,Argentina,3,1,Argentina
+1986,Group F,Poland,2/06/1986 16:00,Morocco,0,0,draw
+1986,Group D,Ireland,3/06/1986 12:00,Algeria,1,1,draw
+1986,Group B,Mexico,3/06/1986 12:00,Belgium,1,2,Mexico
+1986,Group F,United Kingdom,3/06/1986 16:00,Portugal,1,0,Portugal
+1986,Group B,Iraq,4/06/1986 12:00,Paraguay,1,0,Paraguay
+1986,Group E,Denmark,4/06/1986 16:00,Scotland,0,1,Denmark
+1986,Group E,Germany,4/06/1986 12:00,Uruguay,1,1,draw
+1986,Group A,Argentina,5/06/1986 12:00,Italy,1,1,draw
+1986,Group C,Russia,5/06/1986 12:00,France,1,1,draw
+1986,Group A,Bulgaria,5/06/1986 16:00,"Korea, South",1,1,draw
+1986,Group C,Canada,6/06/1986 12:00,Hungary,2,0,Hungary
+1986,Group D,Algeria,6/06/1986 12:00,Brazil,1,0,Brazil
+1986,Group F,Morocco,6/06/1986 16:00,United Kingdom,0,0,draw
+1986,Group D,Spain,7/06/1986 12:00,Ireland,1,2,Spain
+1986,Group B,Paraguay,7/06/1986 12:00,Mexico,1,1,draw
+1986,Group F,Portugal,7/06/1986 16:00,Poland,1,0,Poland
+1986,Group B,Belgium,8/06/1986 12:00,Iraq,1,2,Belgium
+1986,Group E,Uruguay,8/06/1986 16:00,Denmark,6,1,Denmark
+1986,Group E,Scotland,8/06/1986 12:00,Germany,2,1,Germany
+1986,Group C,France,9/06/1986 12:00,Hungary,0,3,France
+1986,Group C,Canada,9/06/1986 12:00,Russia,2,0,Russia
+1986,Group A,Italy,10/06/1986 12:00,"Korea, South",2,3,Italy
+1986,Group A,Bulgaria,10/06/1986 12:00,Argentina,2,0,Argentina
+1986,Group B,Belgium,11/06/1986 12:00,Paraguay,2,2,draw
+1986,Group B,Mexico,11/06/1986 12:00,Iraq,0,1,Mexico
+1986,Group F,Morocco,11/06/1986 16:00,Portugal,1,3,Morocco
+1986,Group F,Poland,11/06/1986 16:00,United Kingdom,3,0,United Kingdom
+1986,Group D,Brazil,12/06/1986 12:00,Ireland,0,3,Brazil
+1986,Group D,Spain,12/06/1986 12:00,Algeria,0,3,Spain
+1986,Group E,Uruguay,13/06/1986 12:00,Scotland,0,0,draw
+1986,Group E,Germany,13/06/1986 12:00,Denmark,2,0,Denmark
+1986,Round of 16,Belgium,15/06/1986 16:00,Russia,3,4,Belgium 
+1986,Round of 16,Bulgaria,15/06/1986 12:00,Mexico,2,0,Mexico
+1986,Round of 16,Uruguay,16/06/1986 16:00,Argentina,1,0,Argentina
+1986,Round of 16,Poland,16/06/1986 12:00,Brazil,4,0,Brazil
+1986,Round of 16,France,17/06/1986 12:00,Italy,0,2,France
+1986,Round of 16,Germany,17/06/1986 16:00,Morocco,0,1,Germany
+1986,Round of 16,Paraguay,18/06/1986 12:00,United Kingdom,3,0,United Kingdom
+1986,Round of 16,Spain,18/06/1986 16:00,Denmark,1,5,Spain
+1986,Quarter-finals,France,21/06/1986 12:00,Brazil,1,1,France 
+1986,Quarter-finals,Mexico,21/06/1986 16:00,Germany,0,0,Germany 
+1986,Quarter-finals,Belgium,22/06/1986 16:00,Spain,1,1,Belgium 
+1986,Quarter-finals,United Kingdom,22/06/1986 12:00,Argentina,2,1,Argentina
+1986,Semi-finals,Germany,25/06/1986 12:00,France,0,2,Germany
+1986,Semi-finals,Belgium,25/06/1986 16:00,Argentina,2,0,Argentina
+1986,Third place,Belgium,28/06/1986 12:00,France,4,2,France 
+1986,Final,Germany,29/06/1986 12:00,Argentina,3,2,Argentina
+1990,Group B,Cameroon,8/06/1990 18:00,Argentina,0,1,Cameroon
+1990,Group B,Romania,9/06/1990 17:00,Russia,0,2,Romania
+1990,Group D,Colombia,9/06/1990 17:00,United Arab Emirates,0,2,Colombia
+1990,Group A,Austria,9/06/1990 21:00,Italy,1,0,Italy
+1990,Group A,Czech Republic,10/06/1990 17:00,United States,1,5,Czech Republic
+1990,Group C,Sweden,10/06/1990 21:00,Brazil,2,1,Brazil
+1990,Group D,Yugoslavia,10/06/1990 21:00,Germany,4,1,Germany
+1990,Group C,Scotland,11/06/1990 17:00,Costa Rica,1,0,Costa Rica
+1990,Group F,Ireland,11/06/1990 21:00,United Kingdom,1,1,draw
+1990,Group E,"Korea, South",12/06/1990 17:00,Belgium,2,0,Belgium
+1990,Group F,Egypt,12/06/1990 21:00,Netherlands,1,1,draw
+1990,Group E,Spain,13/06/1990 17:00,Uruguay,0,0,draw
+1990,Group B,Russia,13/06/1990 21:00,Argentina,2,0,Argentina
+1990,Group B,Romania,14/06/1990 17:00,Cameroon,2,1,Cameroon
+1990,Group D,Colombia,14/06/1990 17:00,Yugoslavia,1,0,Yugoslavia
+1990,Group A,United States,14/06/1990 21:00,Italy,1,0,Italy
+1990,Group A,Czech Republic,15/06/1990 17:00,Austria,0,1,Czech Republic
+1990,Group D,United Arab Emirates,15/06/1990 21:00,Germany,5,1,Germany
+1990,Group C,Costa Rica,16/06/1990 17:00,Brazil,1,0,Brazil
+1990,Group C,Scotland,16/06/1990 21:00,Sweden,1,2,Scotland
+1990,Group F,Netherlands,16/06/1990 21:00,United Kingdom,0,0,draw
+1990,Group F,Egypt,17/06/1990 17:00,Ireland,0,0,draw
+1990,Group E,Spain,17/06/1990 21:00,"Korea, South",1,3,Spain
+1990,Group E,Uruguay,17/06/1990 21:00,Belgium,3,1,Belgium
+1990,Group B,Romania,18/06/1990 21:00,Argentina,1,1,draw
+1990,Group B,Russia,18/06/1990 21:00,Cameroon,0,4,Russia
+1990,Group D,Colombia,19/06/1990 17:00,Germany,1,1,draw
+1990,Group D,United Arab Emirates,19/06/1990 17:00,Yugoslavia,4,1,Yugoslavia
+1990,Group A,Czech Republic,19/06/1990 21:00,Italy,2,0,Italy
+1990,Group A,United States,19/06/1990 21:00,Austria,2,1,Austria
+1990,Group C,Scotland,20/06/1990 21:00,Brazil,1,0,Brazil
+1990,Group C,Costa Rica,20/06/1990 21:00,Sweden,1,2,Costa Rica
+1990,Group E,Uruguay,21/06/1990 17:00,"Korea, South",0,1,Uruguay
+1990,Group E,Spain,21/06/1990 17:00,Belgium,1,2,Spain
+1990,Group F,Netherlands,21/06/1990 21:00,Belgium,1,1,draw
+1990,Group F,Egypt,21/06/1990 21:00,United Kingdom,1,0,United Kingdom
+1990,Round of 16,Colombia,23/06/1990 17:00,Cameroon,2,1,Cameroon 
+1990,Round of 16,Costa Rica,23/06/1990 21:00,Czech Republic,4,1,Czech Republic
+1990,Round of 16,Argentina,24/06/1990 17:00,Brazil,0,1,Argentina
+1990,Round of 16,Netherlands,24/06/1990 21:00,Germany,2,1,Germany
+1990,Round of 16,Romania,25/06/1990 17:00,Ireland,0,0,Ireland 
+1990,Round of 16,Uruguay,25/06/1990 21:00,Italy,2,0,Italy
+1990,Round of 16,Yugoslavia,26/06/1990 17:00,Spain,1,2,Yugoslavia 
+1990,Round of 16,Belgium,26/06/1990 21:00,United Kingdom,1,0,United Kingdom 
+1990,Quarter-finals,Argentina,30/06/1990 17:00,Yugoslavia,0,0,Argentina 
+1990,Quarter-finals,Ireland,30/06/1990 21:00,Italy,1,0,Italy
+1990,Quarter-finals,Czech Republic,1/07/1990 17:00,Germany,1,0,Germany
+1990,Quarter-finals,Cameroon,1/07/1990 21:00,United Kingdom,3,2,United Kingdom 
+1990,Semi-finals,Argentina,3/07/1990 20:00,Italy,1,1,Argentina 
+1990,Semi-finals,United Kingdom,4/07/1990 20:00,Germany,1,1, Germany 
+1990,Third place,United Kingdom,7/07/1990 20:00,Italy,2,1,Italy
+1990,Final,Argentina,8/07/1990 20:00,Germany,1,0,Germany
+1994,Group C,"Korea, South",17/06/1994 19:30,Spain,2,2,draw
+1994,Group C,Bolivia,17/06/1994 15:00,Germany,1,0,Germany
+1994,Group A,Switzerland,18/06/1994 11:30,United States,1,1,draw
+1994,Group E,Ireland,18/06/1994 16:00,Italy,0,1,Ireland
+1994,Group A,Romania,18/06/1994 19:30,Colombia,1,3,Romania
+1994,Group F,Morocco,19/06/1994 12:30,Belgium,1,0,Belgium
+1994,Group E,Mexico,19/06/1994 16:00,Norway,1,0,Norway
+1994,Group B,Sweden,19/06/1994 19:30,Cameroon,2,2,draw
+1994,Group F,Saudi Arabia,20/06/1994 19:30,Netherlands,2,1,Netherlands
+1994,Group B,Russia,20/06/1994 16:00,Brazil,2,0,Brazil
+1994,Group D,Greece,21/06/1994 12:30,Argentina,4,0,Argentina
+1994,Group D,Bulgaria,21/06/1994 19:30,Nigeria,3,0,Nigeria
+1994,Group C,Spain,21/06/1994 16:00,Germany,1,1,draw
+1994,Group A,Switzerland,22/06/1994 16:00,Romania,1,4,Switzerland
+1994,Group A,Colombia,22/06/1994 19:30,United States,2,1,United States
+1994,Group E,Norway,23/06/1994 16:00,Italy,1,0,Italy
+1994,Group C,Bolivia,23/06/1994 19:30,"Korea, South",0,0,draw
+1994,Group E,Ireland,24/06/1994 12:30,Mexico,2,1,Mexico
+1994,Group B,Russia,24/06/1994 19:30,Sweden,3,1,Sweden
+1994,Group B,Cameroon,24/06/1994 16:00,Brazil,3,0,Brazil
+1994,Group F,Netherlands,25/06/1994 12:30,Belgium,1,0,Belgium
+1994,Group F,Morocco,25/06/1994 12:30,Saudi Arabia,2,1,Saudi Arabia
+1994,Group D,Nigeria,25/06/1994 16:00,Argentina,2,1,Argentina
+1994,Group D,Greece,26/06/1994 12:30,Bulgaria,4,0,Bulgaria
+1994,Group A,Romania,26/06/1994 16:00,United States,0,1,Romania
+1994,Group A,Colombia,26/06/1994 16:00,Switzerland,0,2,Colombia
+1994,Group C,"Korea, South",27/06/1994 16:00,Germany,3,2,Germany
+1994,Group C,Spain,27/06/1994 16:00,Bolivia,1,3,Spain
+1994,Group E,Norway,28/06/1994 12:30,Ireland,0,0,draw
+1994,Group B,Sweden,28/06/1994 16:00,Brazil,1,1,draw
+1994,Group E,Mexico,28/06/1994 12:30,Italy,1,1,draw
+1994,Group B,Cameroon,28/06/1994 16:00,Russia,6,1,Russia
+1994,Group F,Netherlands,29/06/1994 12:30,Morocco,1,2,Netherlands
+1994,Group F,Saudi Arabia,29/06/1994 12:30,Belgium,0,1,Saudi Arabia
+1994,Group D,Nigeria,30/06/1994 19:30,Greece,0,2,Nigeria
+1994,Group D,Bulgaria,30/06/1994 19:30,Argentina,0,2,Bulgaria
+1994,Round of 16,Belgium,2/07/1994 12:00,Germany,3,2,Germany
+1994,Round of 16,Switzerland,2/07/1994 16:30,Spain,3,0,Spain
+1994,Round of 16,Sweden,3/07/1994 12:00,Saudi Arabia,1,3,Sweden
+1994,Round of 16,Argentina,3/07/1994 13:30,Romania,3,2,Romania
+1994,Round of 16,Ireland,4/07/1994 12:00,Netherlands,2,0,Netherlands
+1994,Round of 16,United States,4/07/1994 12:30,Brazil,1,0,Brazil
+1994,Round of 16,Italy,5/07/1994 13:00,Nigeria,1,2,Italy 
+1994,Round of 16,Bulgaria,5/07/1994 16:30,Mexico,1,1,Bulgaria 
+1994,Quarter-finals,Spain,9/07/1994 12:00,Italy,2,1,Italy
+1994,Quarter-finals,Brazil,9/07/1994 14:30,Netherlands,2,3,Brazil
+1994,Quarter-finals,Germany,10/07/1994 12:00,Bulgaria,2,1,Bulgaria
+1994,Quarter-finals,Sweden,10/07/1994 12:30,Romania,2,2,Sweden 
+1994,Semi-finals,Italy,13/07/1994 16:00,Bulgaria,1,2,Italy
+1994,Semi-finals,Brazil,13/07/1994 16:30,Sweden,0,1,Brazil
+1994,Third place,Bulgaria,16/07/1994 12:30,Sweden,4,0,Sweden
+1994,Final,Italy,17/07/1994 12:30,Brazil,0,0,Brazil 
+1998,Group A,Scotland,10/06/1998 17:30,Brazil,2,1,Brazil
+1998,Group A,Norway,10/06/1998 21:00,Morocco,2,2,draw
+1998,Group B,Chile,11/06/1998 17:30,Italy,2,2,draw
+1998,Group B,Austria,11/06/1998 21:00,Cameroon,1,1,draw
+1998,Group D,Bulgaria,12/06/1998 14:30,Paraguay,0,0,draw
+1998,Group C,Denmark,12/06/1998 17:30,Saudi Arabia,0,1,Denmark
+1998,Group C,South Africa,12/06/1998 21:00,France,3,0,France
+1998,Group D,Nigeria,13/06/1998 14:30,Spain,2,3,Nigeria
+1998,Group E,Mexico,13/06/1998 17:30,"Korea, South",1,3,Mexico
+1998,Group E,Belgium,13/06/1998 21:00,Netherlands,0,0,draw
+1998,Group H,Japan,14/06/1998 14:30,Argentina,1,0,Argentina
+1998,Group F,Iran,14/06/1998 17:30,Yugoslavia,1,0,Yugoslavia
+1998,Group H,Croatia,14/06/1998 21:00,Jamaica,1,3,Croatia
+1998,Group G,Tunisia,15/06/1998 14:30,United Kingdom,2,0,United Kingdom
+1998,Group G,Colombia,15/06/1998 17:30,Romania,1,0,Romania
+1998,Group F,United States,15/06/1998 21:00,Germany,2,0,Germany
+1998,Group A,Norway,16/06/1998 17:30,Scotland,1,1,draw
+1998,Group A,Morocco,16/06/1998 21:00,Brazil,3,0,Brazil
+1998,Group B,Austria,17/06/1998 17:30,Chile,1,1,draw
+1998,Group B,Cameroon,17/06/1998 21:00,Italy,3,0,Italy
+1998,Group C,Denmark,18/06/1998 17:30,South Africa,1,1,draw
+1998,Group C,Saudi Arabia,18/06/1998 21:00,France,4,0,France
+1998,Group D,Bulgaria,19/06/1998 17:30,Nigeria,1,0,Nigeria
+1998,Group D,Paraguay,19/06/1998 21:00,Spain,0,0,draw
+1998,Group H,Croatia,20/06/1998 14:30,Japan,0,1,Croatia
+1998,Group E,Mexico,20/06/1998 17:30,Belgium,2,2,draw
+1998,Group E,"Korea, South",20/06/1998 21:00,Netherlands,5,0,Netherlands
+1998,Group F,Yugoslavia,21/06/1998 14:30,Germany,2,2,draw
+1998,Group H,Jamaica,21/06/1998 17:30,Argentina,5,0,Argentina
+1998,Group F,Iran,21/06/1998 21:00,United States,1,2,Iran
+1998,Group G,Tunisia,22/06/1998 17:30,Colombia,1,0,Colombia
+1998,Group G,United Kingdom,22/06/1998 21:00,Romania,2,1,Romania
+1998,Group B,Austria,23/06/1998 16:00,Italy,2,1,Italy
+1998,Group B,Cameroon,23/06/1998 16:00,Chile,1,1,draw
+1998,Group A,Morocco,23/06/1998 21:00,Scotland,0,3,Morocco
+1998,Group A,Norway,23/06/1998 21:00,Brazil,1,2,Norway
+1998,Group C,Denmark,24/06/1998 16:00,France,2,1,France
+1998,Group C,Saudi Arabia,24/06/1998 16:00,South Africa,2,2,draw
+1998,Group D,Bulgaria,24/06/1998 21:00,Spain,6,1,Spain
+1998,Group D,Paraguay,24/06/1998 21:00,Nigeria,1,3,Paraguay
+1998,Group E,"Korea, South",25/06/1998 16:00,Belgium,1,1,draw
+1998,Group E,Mexico,25/06/1998 16:00,Netherlands,2,2,draw
+1998,Group F,Iran,25/06/1998 21:00,Germany,2,0,Germany
+1998,Group F,Yugoslavia,25/06/1998 21:00,United States,0,1,Yugoslavia
+1998,Group H,Jamaica,26/06/1998 16:00,Japan,1,2,Jamaica
+1998,Group H,Croatia,26/06/1998 16:00,Argentina,1,0,Argentina
+1998,Group G,Tunisia,26/06/1998 21:00,Romania,1,1,draw
+1998,Group G,United Kingdom,26/06/1998 21:00,Colombia,0,2,United Kingdom
+1998,Round of 16,Norway,27/06/1998 16:30,Italy,1,0,Italy
+1998,Round of 16,Chile,27/06/1998 21:00,Brazil,4,1,Brazil
+1998,Round of 16,Paraguay,28/06/1998 16:30,France,1,0,France 
+1998,Round of 16,Denmark,28/06/1998 21:00,Nigeria,1,4,Denmark
+1998,Round of 16,Mexico,29/06/1998 16:30,Germany,2,1,Germany
+1998,Round of 16,Yugoslavia,29/06/1998 21:00,Netherlands,2,1,Netherlands
+1998,Round of 16,Croatia,30/06/1998 16:30,Romania,0,1,Croatia
+1998,Round of 16,United Kingdom,30/06/1998 21:00,Argentina,2,2,Argentina 
+1998,Quarter-finals,France,3/07/1998 16:30,Italy,0,0,France 
+1998,Quarter-finals,Denmark,3/07/1998 21:00,Brazil,3,2,Brazil
+1998,Quarter-finals,Argentina,4/07/1998 16:30,Netherlands,2,1,Netherlands
+1998,Quarter-finals,Croatia,4/07/1998 21:00,Germany,0,3,Croatia
+1998,Semi-finals,Netherlands,7/07/1998 21:00,Brazil,1,1,Brazil 
+1998,Semi-finals,Croatia,8/07/1998 21:00,France,2,1,France
+1998,Third place,Croatia,11/07/1998 21:00,Netherlands,1,2,Croatia
+1998,Final,France,12/07/1998 21:00,Brazil,0,3,France
+2002,Group A,Senegal,31/05/2002 20:30,France,0,1,Senegal
+2002,Group A,Denmark,1/06/2002 18:00,Uruguay,1,2,Denmark
+2002,Group E,Cameroon,1/06/2002 15:30,Ireland,1,1,draw
+2002,Group E,Saudi Arabia,1/06/2002 20:30,Germany,8,0,Germany
+2002,Group F,Nigeria,2/06/2002 14:30,Argentina,1,0,Argentina
+2002,Group B,South Africa,2/06/2002 16:30,Paraguay,2,2,draw
+2002,Group F,Sweden,2/06/2002 18:30,United Kingdom,1,1,draw
+2002,Group B,Slovenia,2/06/2002 20:30,Spain,3,1,Spain
+2002,Group C,Turkey,3/06/2002 18:00,Brazil,2,1,Brazil
+2002,Group G,Ecuador,3/06/2002 20:30,Italy,2,0,Italy
+2002,Group G,Mexico,3/06/2002 15:30,Croatia,0,1,Mexico
+2002,Group C,Costa Rica,4/06/2002 15:30,China,0,2,Costa Rica
+2002,Group H,Belgium,4/06/2002 18:00,Japan,2,2,draw
+2002,Group D,Poland,4/06/2002 20:30,"Korea, South",2,0,"Korea, South"
+2002,Group H,Tunisia,5/06/2002 15:30,Russia,2,0,Russia
+2002,Group D,Portugal,5/06/2002 18:00,United States,3,2,United States
+2002,Group E,Ireland,5/06/2002 20:30,Germany,1,1,draw
+2002,Group A,Senegal,6/06/2002 15:30,Denmark,1,1,draw
+2002,Group E,Saudi Arabia,6/06/2002 18:00,Cameroon,1,0,Cameroon
+2002,Group A,Uruguay,6/06/2002 20:30,France,0,0,draw
+2002,Group F,Nigeria,7/06/2002 15:30,Sweden,2,1,Sweden
+2002,Group F,United Kingdom,7/06/2002 20:30,Argentina,0,1,United Kingdom
+2002,Group B,Paraguay,7/06/2002 18:00,Spain,3,1,Spain
+2002,Group B,Slovenia,8/06/2002 15:30,South Africa,1,0,South Africa
+2002,Group C,China,8/06/2002 20:30,Brazil,4,0,Brazil
+2002,Group G,Croatia,8/06/2002 18:00,Italy,1,2,Croatia
+2002,Group C,Turkey,9/06/2002 18:00,Costa Rica,1,1,draw
+2002,Group H,Russia,9/06/2002 20:30,Japan,1,0,Japan
+2002,Group G,Ecuador,9/06/2002 15:30,Mexico,2,1,Mexico
+2002,Group D,United States,10/06/2002 15:30,"Korea, South",1,1,draw
+2002,Group D,Poland,10/06/2002 20:30,Portugal,4,0,Portugal
+2002,Group H,Belgium,10/06/2002 18:00,Tunisia,1,1,draw
+2002,Group A,France,11/06/2002 15:30,Denmark,2,0,Denmark
+2002,Group A,Uruguay,11/06/2002 15:30,Senegal,3,3,draw
+2002,Group E,Ireland,11/06/2002 20:30,Saudi Arabia,0,3,Ireland
+2002,Group E,Germany,11/06/2002 20:30,Cameroon,0,2,Germany
+2002,Group F,Argentina,12/06/2002 15:30,Sweden,1,1,draw
+2002,Group F,United Kingdom,12/06/2002 15:30,Nigeria,0,0,draw
+2002,Group B,Paraguay,12/06/2002 20:30,Slovenia,1,3,Paraguay
+2002,Group B,Spain,12/06/2002 20:30,South Africa,2,3,Spain
+2002,Group C,Brazil,13/06/2002 15:30,Costa Rica,2,5,Brazil
+2002,Group C,China,13/06/2002 15:30,Turkey,3,0,Turkey
+2002,Group G,Croatia,13/06/2002 20:30,Ecuador,1,0,Ecuador
+2002,Group G,Italy,13/06/2002 20:30,Mexico,1,1,draw
+2002,Group H,Japan,14/06/2002 15:30,Tunisia,0,2,Japan
+2002,Group D,"Korea, South",14/06/2002 20:30,Portugal,0,1,"Korea, South"
+2002,Group D,United States,14/06/2002 20:30,Poland,3,1,Poland
+2002,Group H,Russia,14/06/2002 15:30,Belgium,3,2,Belgium
+2002,Round of 16,United Kingdom,15/06/2002 20:30,Denmark,0,3,United Kingdom
+2002,Round of 16,Paraguay,15/06/2002 15:30,Germany,1,0,Germany
+2002,Round of 16,Ireland,16/06/2002 20:30,Spain,1,1,Spain 
+2002,Round of 16,Senegal,16/06/2002 15:30,Sweden,1,2,Senegal 
+2002,Round of 16,Belgium,17/06/2002 20:30,Brazil,2,0,Brazil
+2002,Round of 16,United States,17/06/2002 15:30,Mexico,0,2,United States
+2002,Round of 16,Turkey,18/06/2002 15:30,Japan,0,1,Turkey
+2002,Round of 16,Italy,18/06/2002 20:30,"Korea, South",2,1,"Korea, South "
+2002,Quarter-finals,Brazil,21/06/2002 15:30,United Kingdom,1,2,Brazil
+2002,Quarter-finals,United States,21/06/2002 20:30,Germany,1,0,Germany
+2002,Quarter-finals,Turkey,22/06/2002 20:30,Senegal,0,1,Turkey 
+2002,Quarter-finals,"Korea, South",22/06/2002 15:30,Spain,0,0,"Korea, South "
+2002,Semi-finals,"Korea, South",25/06/2002 20:30,Germany,1,0,Germany
+2002,Semi-finals,Turkey,26/06/2002 20:30,Brazil,1,0,Brazil
+2002,Third place,Turkey,29/06/2002 20:00,"Korea, South",2,3,Turkey
+2002,Final,Brazil,30/06/2002 20:00,Germany,0,2,Brazil
+2006,Group A,Costa Rica,9/06/2006 18:00,Germany,4,2,Germany
+2006,Group A,Ecuador,9/06/2006 21:00,Poland,0,2,Ecuador
+2006,Group B,Paraguay,10/06/2006 15:00,United Kingdom,1,0,United Kingdom
+2006,Group B,Sweden,10/06/2006 18:00,Trinidad and Tobago,0,0,draw
+2006,Group C,Cote d'Ivoire,10/06/2006 21:00,Argentina,2,1,Argentina
+2006,Group C,Netherlands,11/06/2006 15:00,Serbia,0,1,Netherlands
+2006,Group D,Iran,11/06/2006 18:00,Mexico,3,1,Mexico
+2006,Group D,Portugal,11/06/2006 21:00,Angola,0,1,Portugal
+2006,Group F,Japan,12/06/2006 15:00,Australia,3,1,Australia
+2006,Group E,Czech Republic,12/06/2006 18:00,United States,0,3,Czech Republic
+2006,Group E,Ghana,12/06/2006 21:00,Italy,2,0,Italy
+2006,Group G,Togo,13/06/2006 15:00,"Korea, South",2,1,"Korea, South"
+2006,Group G,Switzerland,13/06/2006 18:00,France,0,0,draw
+2006,Group F,Croatia,13/06/2006 21:00,Brazil,1,0,Brazil
+2006,Group H,Ukraine,14/06/2006 15:00,Spain,4,0,Spain
+2006,Group H,Saudi Arabia,14/06/2006 18:00,Tunisia,2,2,draw
+2006,Group A,Poland,14/06/2006 21:00,Germany,1,0,Germany
+2006,Group A,Costa Rica,15/06/2006 15:00,Ecuador,3,0,Ecuador
+2006,Group B,Trinidad and Tobago,15/06/2006 18:00,United Kingdom,2,0,United Kingdom
+2006,Group B,Paraguay,15/06/2006 21:00,Sweden,1,0,Sweden
+2006,Group C,Serbia,16/06/2006 15:00,Argentina,6,0,Argentina
+2006,Group C,Cote d'Ivoire,16/06/2006 18:00,Netherlands,2,1,Netherlands
+2006,Group D,Angola,16/06/2006 21:00,Mexico,0,0,draw
+2006,Group D,Iran,17/06/2006 15:00,Portugal,2,0,Portugal
+2006,Group E,Ghana,17/06/2006 18:00,Czech Republic,0,2,Ghana
+2006,Group E,United States,17/06/2006 21:00,Italy,1,1,draw
+2006,Group F,Croatia,18/06/2006 15:00,Japan,0,0,draw
+2006,Group F,Australia,18/06/2006 18:00,Brazil,2,0,Brazil
+2006,Group G,"Korea, South",18/06/2006 21:00,France,1,1,draw
+2006,Group G,Switzerland,19/06/2006 15:00,Togo,0,2,Switzerland
+2006,Group H,Ukraine,19/06/2006 18:00,Saudi Arabia,0,4,Ukraine
+2006,Group H,Tunisia,19/06/2006 21:00,Spain,3,1,Spain
+2006,Group A,Germany,20/06/2006 16:00,Ecuador,0,3,Germany
+2006,Group A,Poland,20/06/2006 16:00,Costa Rica,1,2,Poland
+2006,Group B,United Kingdom,20/06/2006 21:00,Sweden,2,2,draw
+2006,Group B,Trinidad and Tobago,20/06/2006 21:00,Paraguay,2,0,Paraguay
+2006,Group D,Angola,21/06/2006 16:00,Iran,1,1,draw
+2006,Group D,Mexico,21/06/2006 16:00,Portugal,2,1,Portugal
+2006,Group C,Argentina,21/06/2006 21:00,Netherlands,0,0,draw
+2006,Group C,Serbia,21/06/2006 21:00,Cote d'Ivoire,3,2,Cote d'Ivoire
+2006,Group E,Italy,22/06/2006 16:00,Czech Republic,0,2,Italy
+2006,Group E,United States,22/06/2006 16:00,Ghana,2,1,Ghana
+2006,Group F,Brazil,22/06/2006 21:00,Japan,1,4,Brazil
+2006,Group F,Australia,22/06/2006 21:00,Croatia,2,2,draw
+2006,Group H,Tunisia,23/06/2006 16:00,Ukraine,1,0,Ukraine
+2006,Group H,Spain,23/06/2006 16:00,Saudi Arabia,0,1,Spain
+2006,Group G,France,23/06/2006 21:00,Togo,0,2,France
+2006,Group G,"Korea, South",23/06/2006 21:00,Switzerland,2,0,Switzerland
+2006,Round of 16,Sweden,24/06/2006 17:00,Germany,2,0,Germany
+2006,Round of 16,Mexico,24/06/2006 21:00,Argentina,2,1,Argentina 
+2006,Round of 16,Ecuador,25/06/2006 17:00,United Kingdom,1,0,United Kingdom
+2006,Round of 16,Netherlands,25/06/2006 21:00,Portugal,1,0,Portugal
+2006,Round of 16,Australia,26/06/2006 17:00,Italy,1,0,Italy
+2006,Round of 16,Ukraine,26/06/2006 21:00,Switzerland,0,0,Ukraine 
+2006,Round of 16,Ghana,27/06/2006 17:00,Brazil,3,0,Brazil
+2006,Round of 16,France,27/06/2006 21:00,Spain,1,3,France
+2006,Quarter-finals,Argentina,30/06/2006 17:00,Germany,1,1,Germany 
+2006,Quarter-finals,Ukraine,30/06/2006 21:00,Italy,3,0,Italy
+2006,Quarter-finals,Portugal,1/07/2006 17:00,United Kingdom,0,0,Portugal 
+2006,Quarter-finals,France,1/07/2006 21:00,Brazil,0,1,France
+2006,Semi-finals,Italy,4/07/2006 21:00,Germany,0,2,Italy 
+2006,Semi-finals,France,5/07/2006 21:00,Portugal,0,1,France
+2006,Third place,Portugal,8/07/2006 21:00,Germany,3,1,Germany
+2006,Final,France,9/07/2006 20:00,Italy,1,1,Italy 
+2010,Group A,Mexico,11/06/2010 16:00,South Africa,1,1,draw
+2010,Group A,France,11/06/2010 20:30,Uruguay,0,0,draw
+2010,Group B,Greece,12/06/2010 13:30,"Korea, South",2,0,"Korea, South"
+2010,Group B,Nigeria,12/06/2010 16:00,Argentina,1,0,Argentina
+2010,Group C,United States,12/06/2010 20:30,United Kingdom,1,1,draw
+2010,Group C,Slovenia,13/06/2010 13:30,Algeria,0,1,Slovenia
+2010,Group D,Ghana,13/06/2010 16:00,Serbia,0,1,Ghana
+2010,Group D,Australia,13/06/2010 20:30,Germany,4,0,Germany
+2010,Group E,Denmark,14/06/2010 13:30,Netherlands,2,0,Netherlands
+2010,Group E,Cameroon,14/06/2010 16:00,Japan,1,0,Japan
+2010,Group F,Paraguay,14/06/2010 20:30,Italy,1,1,draw
+2010,Group F,Slovakia,15/06/2010 13:30,New Zealand,1,1,draw
+2010,Group G,Portugal,15/06/2010 16:00,Cote d'Ivoire,0,0,draw
+2010,Group G,"Korea, North",15/06/2010 20:30,Brazil,2,1,Brazil
+2010,Group H,Chile,16/06/2010 13:30,Honduras,0,1,Chile
+2010,Group H,Switzerland,16/06/2010 16:00,Spain,0,1,Switzerland
+2010,Group A,Uruguay,16/06/2010 20:30,South Africa,0,3,Uruguay
+2010,Group B,"Korea, South",17/06/2010 13:30,Argentina,4,1,Argentina
+2010,Group B,Nigeria,17/06/2010 16:00,Greece,2,1,Greece
+2010,Group A,Mexico,17/06/2010 20:30,France,0,2,Mexico
+2010,Group D,Serbia,18/06/2010 13:30,Germany,0,1,Serbia
+2010,Group C,United States,18/06/2010 16:00,Slovenia,2,2,draw
+2010,Group C,Algeria,18/06/2010 20:30,United Kingdom,0,0,draw
+2010,Group E,Japan,19/06/2010 13:30,Netherlands,1,0,Netherlands
+2010,Group D,Australia,19/06/2010 16:00,Ghana,1,1,draw
+2010,Group E,Denmark,19/06/2010 20:30,Cameroon,1,2,Denmark
+2010,Group F,Paraguay,20/06/2010 13:30,Slovakia,0,2,Paraguay
+2010,Group F,New Zealand,20/06/2010 16:00,Italy,1,1,draw
+2010,Group G,Cote d'Ivoire,20/06/2010 20:30,Brazil,3,1,Brazil
+2010,Group G,"Korea, North",21/06/2010 13:30,Portugal,7,0,Portugal
+2010,Group H,Switzerland,21/06/2010 16:00,Chile,1,0,Chile
+2010,Group H,Honduras,21/06/2010 20:30,Spain,2,0,Spain
+2010,Group A,Uruguay,22/06/2010 16:00,Mexico,0,1,Uruguay
+2010,Group A,South Africa,22/06/2010 16:00,France,1,2,South Africa
+2010,Group B,"Korea, South",22/06/2010 20:30,Nigeria,2,2,draw
+2010,Group B,Argentina,22/06/2010 20:30,Greece,0,2,Argentina
+2010,Group C,United Kingdom,23/06/2010 16:00,Slovenia,0,1,United Kingdom
+2010,Group C,Algeria,23/06/2010 16:00,United States,1,0,United States
+2010,Group D,Germany,23/06/2010 20:30,Ghana,0,1,Germany
+2010,Group D,Serbia,23/06/2010 20:30,Australia,2,1,Australia
+2010,Group F,Italy,24/06/2010 16:00,Slovakia,3,2,Slovakia
+2010,Group F,New Zealand,24/06/2010 16:00,Paraguay,0,0,draw
+2010,Group E,Japan,24/06/2010 20:30,Denmark,1,3,Japan
+2010,Group E,Netherlands,24/06/2010 20:30,Cameroon,1,2,Netherlands
+2010,Group G,Brazil,25/06/2010 16:00,Portugal,0,0,draw
+2010,Group G,Cote d'Ivoire,25/06/2010 16:00,"Korea, North",0,3,Cote d'Ivoire
+2010,Group H,Spain,25/06/2010 20:30,Chile,1,2,Spain
+2010,Group H,Honduras,25/06/2010 20:30,Switzerland,0,0,draw
+2010,Round of 16,"Korea, South",26/06/2010 16:00,Uruguay,2,1,Uruguay
+2010,Round of 16,Ghana,26/06/2010 20:30,United States,1,2,Ghana 
+2010,Round of 16,United Kingdom,27/06/2010 16:00,Germany,4,1,Germany
+2010,Round of 16,Mexico,27/06/2010 20:30,Argentina,3,1,Argentina
+2010,Round of 16,Slovakia,28/06/2010 16:00,Netherlands,2,1,Netherlands
+2010,Round of 16,Chile,28/06/2010 20:30,Brazil,3,0,Brazil
+2010,Round of 16,Japan,29/06/2010 16:00,Paraguay,0,0,Paraguay 
+2010,Round of 16,Portugal,29/06/2010 20:30,Spain,1,0,Spain
+2010,Quarter-finals,Brazil,2/07/2010 16:00,Netherlands,2,1,Netherlands
+2010,Quarter-finals,Ghana,2/07/2010 20:30,Uruguay,1,1,Uruguay 
+2010,Quarter-finals,Germany,3/07/2010 16:00,Argentina,0,4,Germany
+2010,Quarter-finals,Spain,3/07/2010 20:30,Paraguay,0,1,Spain
+2010,Semi-finals,Netherlands,6/07/2010 20:30,Uruguay,2,3,Netherlands
+2010,Semi-finals,Spain,7/07/2010 20:30,Germany,0,1,Spain
+2010,Third place,Germany,10/07/2010 20:30,Uruguay,2,3,Germany
+2010,Final,Spain,11/07/2010 20:30,Netherlands,0,1,Spain 
+2014,Group A,Croatia,12/06/2014 17:00,Brazil,3,1,Brazil
+2014,Group A,Cameroon,13/06/2014 13:00,Mexico,1,0,Mexico
+2014,Group B,Netherlands,13/06/2014 16:00,Spain,1,5,Netherlands
+2014,Group B,Australia,13/06/2014 18:00,Chile,3,1,Chile
+2014,Group C,Greece,14/06/2014 13:00,Colombia,3,0,Colombia
+2014,Group D,Costa Rica,14/06/2014 16:00,Uruguay,1,3,Costa Rica
+2014,Group D,Italy,14/06/2014 18:00,United Kingdom,1,2,Italy
+2014,Group C,Japan,14/06/2014 22:00,Cote d'Ivoire,2,1,Cote d'Ivoire
+2014,Group E,Ecuador,15/06/2014 13:00,Switzerland,2,1,Switzerland
+2014,Group E,Honduras,15/06/2014 16:00,France,3,0,France
+2014,Group F,Bosnia and Herzegovina,15/06/2014 19:00,Argentina,2,1,Argentina
+2014,Group G,Portugal,16/06/2014 13:00,Germany,4,0,Germany
+2014,Group F,Nigeria,16/06/2014 16:00,Iran,0,0,draw
+2014,Group G,United States,16/06/2014 19:00,Ghana,1,2,United States
+2014,Group H,Algeria,17/06/2014 13:00,Belgium,2,1,Belgium
+2014,Group A,Mexico,17/06/2014 16:00,Brazil,0,0,draw
+2014,Group H,"Korea, South",17/06/2014 18:00,Russia,1,1,draw
+2014,Group B,Netherlands,18/06/2014 13:00,Australia,2,3,Netherlands
+2014,Group B,Chile,18/06/2014 16:00,Spain,0,2,Chile
+2014,Group A,Croatia,18/06/2014 18:00,Cameroon,0,4,Croatia
+2014,Group C,Cote d'Ivoire,19/06/2014 13:00,Colombia,2,1,Colombia
+2014,Group D,United Kingdom,19/06/2014 16:00,Uruguay,2,1,Uruguay
+2014,Group C,Greece,19/06/2014 19:00,Japan,0,0,draw
+2014,Group D,Costa Rica,20/06/2014 13:00,Italy,0,1,Costa Rica
+2014,Group E,France,20/06/2014 16:00,Switzerland,2,5,France
+2014,Group E,Ecuador,20/06/2014 19:00,Honduras,1,2,Ecuador
+2014,Group F,Iran,21/06/2014 13:00,Argentina,1,0,Argentina
+2014,Group G,Ghana,21/06/2014 16:00,Germany,2,2,draw
+2014,Group F,Bosnia and Herzegovina,21/06/2014 18:00,Nigeria,1,0,Nigeria
+2014,Group H,Russia,22/06/2014 13:00,Belgium,1,0,Belgium
+2014,Group H,Algeria,22/06/2014 16:00,"Korea, South",2,4,Algeria
+2014,Group G,Portugal,22/06/2014 18:00,United States,2,2,draw
+2014,Group B,Spain,23/06/2014 13:00,Australia,0,3,Spain
+2014,Group B,Chile,23/06/2014 13:00,Netherlands,2,0,Netherlands
+2014,Group A,Brazil,23/06/2014 17:00,Cameroon,1,4,Brazil
+2014,Group A,Mexico,23/06/2014 17:00,Croatia,1,3,Mexico
+2014,Group D,Uruguay,24/06/2014 13:00,Italy,0,1,Uruguay
+2014,Group D,United Kingdom,24/06/2014 13:00,Costa Rica,0,0,draw
+2014,Group C,Colombia,24/06/2014 16:00,Japan,1,4,Colombia
+2014,Group C,Cote d'Ivoire,24/06/2014 17:00,Greece,2,1,Greece
+2014,Group F,Argentina,25/06/2014 13:00,Nigeria,2,3,Argentina
+2014,Group F,Iran,25/06/2014 13:00,Bosnia and Herzegovina,3,1,Bosnia and Herzegovina
+2014,Group E,Switzerland,25/06/2014 16:00,Honduras,0,3,Switzerland
+2014,Group E,France,25/06/2014 17:00,Ecuador,0,0,draw
+2014,Group G,Germany,26/06/2014 13:00,United States,0,1,Germany
+2014,Group G,Ghana,26/06/2014 13:00,Portugal,2,1,Portugal
+2014,Group H,Belgium,26/06/2014 17:00,"Korea, South",0,1,Belgium
+2014,Group H,Russia,26/06/2014 17:00,Algeria,1,1,draw
+2014,Round of 16,Chile,28/06/2014 13:00,Brazil,1,1,Brazil 
+2014,Round of 16,Uruguay,28/06/2014 17:00,Colombia,2,0,Colombia
+2014,Round of 16,Nigeria,30/06/2014 13:00,France,2,0,France
+2014,Round of 16,Algeria,30/06/2014 17:00,Germany,2,1,Germany 
+2014,Quarter-finals,Colombia,4/07/2014 17:00,Brazil,2,1,Brazil
+2014,Quarter-finals,Germany,4/07/2014 13:00,France,0,1,Germany
+2014,Semi-finals,Germany,8/07/2014 17:00,Brazil,1,7,Germany
+2014,Third place,Netherlands,12/07/2014 17:00,Brazil,0,3,Netherlands
+2014,Final,Argentina,13/07/2014 16:00,Germany,1,0,Germany 
+2014,Semi-finals,Argentina,9/07/2014 17:00,Netherlands,0,0,Argentina 
+2014,Quarter-finals,Costa Rica,5/07/2014 17:00,Netherlands,0,0,Netherlands 
+2014,Quarter-finals,Belgium,5/07/2014 13:00,Argentina,1,0,Argentina
+2014,Round of 16,Mexico,29/06/2014 13:00,Netherlands,2,1,Netherlands
+2014,Round of 16,Greece,29/06/2014 17:00,Costa Rica,1,1,Costa Rica 
+2014,Round of 16,Switzerland,1/07/2014 13:00,Argentina,1,0,Argentina 
+2014,Round of 16,United States,1/07/2014 17:00,Belgium,2,1,Belgium 
+2014,Round of 16,Chile,28/06/2014 13:00,Brazil,1,1,Brazil 
+2014,Round of 16,Uruguay,28/06/2014 17:00,Colombia,2,0,Colombia
+2014,Round of 16,Mexico,29/06/2014 13:00,Netherlands,2,1,Netherlands
+2014,Round of 16,Greece,29/06/2014 17:00,Costa Rica,1,1,Costa Rica 
+2014,Round of 16,Nigeria,30/06/2014 13:00,France,2,0,France
+2014,Round of 16,Algeria,30/06/2014 17:00,Germany,2,1,Germany 
+2014,Round of 16,Switzerland,1/07/2014 13:00,Argentina,1,0,Argentina 
+2014,Round of 16,United States,1/07/2014 17:00,Belgium,2,1,Belgium 
+2014,Quarter-finals,Germany,4/07/2014 13:00,France,0,1,Germany
+2014,Quarter-finals,Colombia,4/07/2014 17:00,Brazil,2,1,Brazil
+2014,Quarter-finals,Belgium,5/07/2014 13:00,Argentina,1,0,Argentina
+2014,Quarter-finals,Costa Rica,5/07/2014 17:00,Netherlands,0,0,Netherlands 
+2014,Semi-finals,Germany,8/07/2014 17:00,Brazil,1,7,Germany
+2014,Semi-finals,Argentina,9/07/2014 17:00,Netherlands,0,0,Argentina 
+2014,Third place,Netherlands,12/07/2014 17:00,Brazil,0,3,Netherlands
+2014,Final,Argentina,13/07/2014 16:00,Germany,1,0,Germany 
+2018,Group A,Saudi Arabia,14/06/2018 15:00,Russia,5,0,Russia
+2018,Group A,Uruguay,15/06/2018 12:00,Egypt,0,1,Uruguay
+2018,Group A,Egypt,19/06/2018 18:00,Russia,3,1,Russia
+2018,Group A,Saudi Arabia,20/06/2018 15:00,Uruguay,1,0,Uruguay
+2018,Group A,Russia,25/06/2018 14:00,Uruguay,3,0,Uruguay
+2018,Group A,Egypt,25/06/2018 14:00,Saudi Arabia,2,1,Saudi Arabia
+2018,Group B,Spain,15/06/2018 18:00,Portugal,3,3,draw
+2018,Group B,Iran,15/06/2018 15:00,Morocco,0,1,Iran
+2018,Group B,Morocco,20/06/2018 12:00,Portugal,1,0,Portugal
+2018,Group B,Spain,20/06/2018 18:00,Iran,0,1,Spain
+2018,Group B,Portugal,25/06/2018 18:00,Iran,1,1,draw
+2018,Group B,Morocco,25/06/2018 18:00,Spain,2,2,draw
+2018,Group C,Australia,16/06/2018 10:00,France,2,1,France
+2018,Group C,Denmark,16/06/2018 16:00,Peru,0,1,Denmark
+2018,Group C,Peru,21/06/2018 15:00,France,1,0,France
+2018,Group C,Australia,21/06/2018 12:00,Denmark,1,1,draw
+2018,Group C,France,26/06/2018 14:00,Denmark,0,0,draw
+2018,Group C,Peru,26/06/2018 14:00,Australia,0,2,Peru
+2018,Group D,Iceland,16/06/2018 13:00,Argentina,1,1,draw
+2018,Group D,Nigeria,16/06/2018 19:00,Croatia,2,0,Croatia
+2018,Group D,Croatia,21/06/2018 18:00,Argentina,0,3,Croatia
+2018,Group D,Iceland,22/06/2018 15:00,Nigeria,2,0,Nigeria
+2018,Group D,Argentina,26/06/2018 18:00,Nigeria,1,2,Argentina
+2018,Group D,Croatia,26/06/2018 18:00,Iceland,1,2,Croatia
+2018,Group E,Switzerland,17/06/2018 18:00,Brazil,1,1,draw
+2018,Group E,Serbia,17/06/2018 12:00,Costa Rica,0,1,Serbia
+2018,Group E,Costa Rica,22/06/2018 12:00,Brazil,2,0,Brazil
+2018,Group E,Switzerland,22/06/2018 18:00,Serbia,1,2,Switzerland
+2018,Group E,Brazil,27/06/2018 18:00,Serbia,0,2,Brazil
+2018,Group E,Costa Rica,27/06/2018 18:00,Switzerland,2,2,draw
+2018,Group F,Mexico,17/06/2018 15:00,Germany,0,1,Mexico
+2018,Group F,"Korea, South",18/06/2018 12:00,Sweden,1,0,Sweden
+2018,Group F,Sweden,23/06/2018 18:00,Germany,2,1,Germany
+2018,Group F,Mexico,23/06/2018 15:00,"Korea, South",1,2,Mexico
+2018,Group F,Germany,27/06/2018 14:00,"Korea, South",2,0,"Korea, South"
+2018,Group F,Sweden,27/06/2018 14:00,Mexico,0,3,Sweden
+2018,Group G,Panama,18/06/2018 15:00,Belgium,3,0,Belgium
+2018,Group G,United Kingdom,18/06/2018 18:00,Tunisia,1,2,United Kingdom
+2018,Group G,Tunisia,23/06/2018 12:00,Belgium,5,2,Belgium
+2018,Group G,Panama,24/06/2018 12:00,United Kingdom,6,1,United Kingdom
+2018,Group G,Belgium,28/06/2018 18:00,United Kingdom,0,1,Belgium
+2018,Group G,Tunisia,28/06/2018 18:00,Panama,1,2,Tunisia
+2018,Group H,Senegal,19/06/2018 15:00,Poland,1,2,Senegal
+2018,Group H,Japan,19/06/2018 12:00,Colombia,1,2,Japan
+2018,Group H,Colombia,24/06/2018 18:00,Poland,0,3,Colombia
+2018,Group H,Senegal,24/06/2018 15:00,Japan,2,2,draw
+2018,Group H,Poland,28/06/2018 14:00,Japan,0,1,Poland
+2018,Group H,Colombia,28/06/2018 14:00,Senegal,0,1,Colombia
+2018,Round of 16,Portugal,30/06/2018 18:00,Uruguay,2,1,Uruguay
+2018,Round of 16,Argentina,30/06/2018 14:00,France,4,3,France
+2018,Round of 16,Russia,1/07/2018 14:00,Spain,1,1,Russia
+2018,Round of 16,Denmark,1/07/2018 18:00,Croatia,1,1,Croatia
+2018,Round of 16,Mexico,2/07/2018 14:00,Brazil,2,0,Brazil
+2018,Round of 16,Japan,2/07/2018 18:00,Belgium,3,2,Belgium
+2018,Round of 16,Switzerland,3/07/2018 14:00,Sweden,1,0,Sweden
+2018,Round of 16,United Kingdom,3/07/2018 18:00,Colombia,1,1,United Kingdom
+2018,Quarter-finals,France,6/07/2018 14:00,Uruguay,0,2,France
+2018,Quarter-finals,Belgium,6/07/2018 18:00,Brazil,1,2,Belgium
+2018,Quarter-finals,Croatia,7/07/2018 18:00,Russia,2,2,Croatia
+2018,Quarter-finals,United Kingdom,7/07/2018 14:00,Sweden,0,2,United Kingdom
+2018,Semi-finals,Belgium,10/07/2018 18:00,France,1,0,France
+2018,Semi-finals,United Kingdom,11/07/2018 18:00,Croatia,2,1,Croatia
+2018,Third place,United Kingdom,14/07/2018 14:00,Belgium,2,0,Belgium
+2018,Final,Croatia,15/07/2018 15:00,France,4,2,France
