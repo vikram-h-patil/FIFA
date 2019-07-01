@@ -1,5 +1,5 @@
-# FIFA
-FIFA WorldCup visualization using  R, Rshiny. 
+# Soccer Mania
+FIFA WorldCup visualization & player comparator using  R, Rshiny. 
 
 
 ### 1) Introduction           
